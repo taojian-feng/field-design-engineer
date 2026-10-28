@@ -1,0 +1,13 @@
+station_ft,observation_type,value,notes
+2100,depth_of_cover_in,34,Pasture
+4800,depth_of_cover_in,27,Erosion at creek bank
+9200,depth_of_cover_in,38,Subdivision edge
+11800,depth_of_cover_in,22,New driveway graded over ROW
+12000,cp_potential_mv,-812,TP-07 on reading
+14100,encroachment,,Shed built on ROW
+16900,rock,,Limestone outcrop
+16900,depth_of_cover_in,26,Shallow over rock
+18250,depth_of_cover_in,40,FM 1960 crossing
+19600,exposed_pipe,,Pipe exposed in drainage ditch about 6 ft
+23400,cp_potential_mv,-1050,
+24800,coating_damage,,Holiday found at bellhole dig

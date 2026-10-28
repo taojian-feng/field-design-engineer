@@ -1,0 +1,58 @@
+station_ft,observation_type,value,notes
+500,rock,,Consolidated rock in trench wall
+500,depth_of_cover_in,42,
+1000,depth_of_cover_in,47,
+1500,depth_of_cover_in,48,
+2000,depth_of_cover_in,43,
+2500,depth_of_cover_in,46,
+2640,cp_potential_mv,-1207,SYN-104-TP01 on reading
+3000,depth_of_cover_in,42,
+3500,depth_of_cover_in,52,
+4000,depth_of_cover_in,42,
+4500,depth_of_cover_in,43,
+5000,depth_of_cover_in,59,
+5500,depth_of_cover_in,43,
+6000,depth_of_cover_in,44,
+6500,depth_of_cover_in,54,
+7000,depth_of_cover_in,52,
+7500,depth_of_cover_in,46,
+7882,encroachment,,Structure or fence on ROW
+7920,cp_potential_mv,-884,SYN-104-TP02 on reading
+8000,depth_of_cover_in,43,
+8500,depth_of_cover_in,27,Erosion
+9000,depth_of_cover_in,59,
+9500,rock,,Consolidated rock in trench wall
+9500,depth_of_cover_in,26,
+10000,rock,,Consolidated rock in trench wall
+10000,depth_of_cover_in,39,
+10500,depth_of_cover_in,54,
+11000,depth_of_cover_in,39,
+11500,depth_of_cover_in,42,
+12000,depth_of_cover_in,48,
+12500,depth_of_cover_in,48,
+13000,depth_of_cover_in,46,
+13200,cp_potential_mv,-1192,SYN-104-TP03 on reading
+13500,depth_of_cover_in,43,
+14000,rock,,Consolidated rock in trench wall
+14000,depth_of_cover_in,30,
+14500,depth_of_cover_in,45,
+15000,depth_of_cover_in,44,
+15500,depth_of_cover_in,49,
+16000,depth_of_cover_in,54,
+16500,depth_of_cover_in,33,
+17000,depth_of_cover_in,51,
+17500,depth_of_cover_in,47,
+18000,depth_of_cover_in,35,
+18480,cp_potential_mv,-978,SYN-104-TP04 on reading
+18500,depth_of_cover_in,46,
+19000,depth_of_cover_in,41,
+19500,depth_of_cover_in,32,
+20000,depth_of_cover_in,37,
+20500,depth_of_cover_in,48,
+21000,depth_of_cover_in,43,
+21500,depth_of_cover_in,37,
+22000,depth_of_cover_in,35,
+22500,depth_of_cover_in,38,
+23000,depth_of_cover_in,42,
+23500,depth_of_cover_in,40,
+23760,cp_potential_mv,-1180,SYN-104-TP05 on reading

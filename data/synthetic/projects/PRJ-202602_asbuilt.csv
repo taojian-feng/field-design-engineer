@@ -1,0 +1,7 @@
+item_id,description,spec,quantity,unit,heat_number,mtr_on_file
+P-01,20in line pipe,API 5L X60 0.312w ERW FBE,12330,ft,H-53552,yes
+F-01,20in 90 deg elbow 3R,MSS SP-75 WPHY-60 0.312w,4,ea,H-22322,yes
+F-02,20in 45 deg elbow,MSS SP-75 WPHY-42 0.312w,4,ea,,no
+V-01,20in ball valve,ANSI 600 RF API 6D,1,ea,H-70483,yes
+C-01,Field joint coating,Two-part epoxy,285,ea,H-43578,yes
+C-02,Rock shield,Polyethylene mesh,62,ft,,

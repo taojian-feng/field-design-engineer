@@ -1,0 +1,99 @@
+feature_id,pipeline_id,station_ft,feature_type,description,rating_psig,latitude,longitude
+SYN-101-V01,SYN-101,0,valve,"10in mainline block valve, ANSI 600",1480,29.62,-95.62
+SYN-101-V02,SYN-101,25344,valve,"10in mainline block valve, ANSI 300",740,29.632294,-95.543656
+SYN-101-V03,SYN-101,51900,valve,"10in mainline block valve, ANSI 600",1480,29.662766,-95.467696
+SYN-101-TP01,SYN-101,2640,cp_test_station,CP test station,,29.617814,-95.612062
+SYN-101-TP02,SYN-101,7920,cp_test_station,CP test station,,29.617441,-95.595534
+SYN-101-TP03,SYN-101,13200,cp_test_station,CP test station,,29.619641,-95.579077
+SYN-101-TP04,SYN-101,18480,cp_test_station,CP test station,,29.624464,-95.563377
+SYN-101-TP05,SYN-101,23760,cp_test_station,CP test station,,29.630588,-95.54826
+SYN-101-TP06,SYN-101,29040,cp_test_station,CP test station,,29.636728,-95.533177
+SYN-101-TP07,SYN-101,34320,cp_test_station,CP test station,,29.643245,-95.518322
+SYN-101-TP08,SYN-101,39600,cp_test_station,CP test station,,29.648494,-95.502888
+SYN-101-TP09,SYN-101,44880,cp_test_station,CP test station,,29.65504,-95.488006
+SYN-101-TP10,SYN-101,50160,cp_test_station,CP test station,,29.661008,-95.472811
+SYN-101-X01,SYN-101,40122,road_crossing,road crossing,,29.649076,-95.501379
+SYN-101-X02,SYN-101,770,foreign_line_crossing,foreign line crossing,,29.619302,-95.617703
+SYN-101-X03,SYN-101,7396,water_crossing,water crossing,,29.617108,-95.597145
+SYN-101-X04,SYN-101,4621,foreign_line_crossing,foreign line crossing,,29.617142,-95.60585
+SYN-102-V01,SYN-102,0,valve,"20in mainline block valve, ANSI 600",1480,34.05,-97.1
+SYN-102-V02,SYN-102,24100,valve,"20in mainline block valve, ANSI 600",1480,34.068216,-97.024019
+SYN-102-TP01,SYN-102,2640,cp_test_station,CP test station,,34.053708,-97.092498
+SYN-102-TP02,SYN-102,7920,cp_test_station,CP test station,,34.057716,-97.075827
+SYN-102-TP03,SYN-102,13200,cp_test_station,CP test station,,34.061554,-97.058956
+SYN-102-TP04,SYN-102,18480,cp_test_station,CP test station,,34.065449,-97.042161
+SYN-102-TP05,SYN-102,23760,cp_test_station,CP test station,,34.06817,-97.025145
+SYN-102-X01,SYN-102,12885,water_crossing,water crossing,,34.061326,-97.059964
+SYN-102-X02,SYN-102,14658,road_crossing,road crossing,,34.062244,-97.054191
+SYN-102-X03,SYN-102,3025,road_crossing,road crossing,,34.054303,-97.091442
+SYN-103-V01,SYN-103,0,valve,"12in mainline block valve, ANSI 900",2220,40.35,-80.1
+SYN-103-V02,SYN-103,12794,valve,"12in mainline block valve, ANSI 600",1480,40.378356,-80.073301
+SYN-103-V03,SYN-103,31213,valve,"12in mainline block valve, ANSI 900",2220,40.424277,-80.048351
+SYN-103-V04,SYN-103,32000,valve,"12in mainline block valve, ANSI 900",2220,40.426137,-80.046904
+SYN-103-TP01,SYN-103,2640,cp_test_station,CP test station,,40.356207,-80.095141
+SYN-103-TP02,SYN-103,7920,cp_test_station,CP test station,,40.367144,-80.082767
+SYN-103-TP03,SYN-103,13200,cp_test_station,CP test station,,40.379259,-80.072442
+SYN-103-TP04,SYN-103,18480,cp_test_station,CP test station,,40.391282,-80.061857
+SYN-103-TP05,SYN-103,23760,cp_test_station,CP test station,,40.404816,-80.055317
+SYN-103-TP06,SYN-103,29040,cp_test_station,CP test station,,40.41906,-80.052132
+SYN-103-X01,SYN-103,24746,road_crossing,road crossing,,40.407504,-80.054883
+SYN-103-X02,SYN-103,17929,foreign_line_crossing,foreign line crossing,,40.389955,-80.062811
+SYN-104-V01,SYN-104,0,valve,"24in mainline block valve, ANSI 300",740,30.25,-91.95
+SYN-104-V02,SYN-104,17798,valve,"24in mainline block valve, ANSI 300",740,30.247302,-91.894083
+SYN-104-V03,SYN-104,24000,valve,"24in mainline block valve, ANSI 300",740,30.237984,-91.877794
+SYN-104-TP01,SYN-104,2640,cp_test_station,CP test station,,30.249963,-91.941612
+SYN-104-TP02,SYN-104,7920,cp_test_station,CP test station,,30.250148,-91.924855
+SYN-104-TP03,SYN-104,13200,cp_test_station,CP test station,,30.25042,-91.908106
+SYN-104-TP04,SYN-104,18480,cp_test_station,CP test station,,30.246485,-91.892133
+SYN-104-TP05,SYN-104,23760,cp_test_station,CP test station,,30.238461,-91.87832
+SYN-104-X01,SYN-104,8202,water_crossing,water crossing,,30.250085,-91.923962
+SYN-105-V01,SYN-105,0,valve,"12in mainline block valve, ANSI 300",740,39.95,-104.85
+SYN-105-V02,SYN-105,16975,valve,"12in mainline block valve, ANSI 150",285,39.990053,-104.825548
+SYN-105-V03,SYN-105,30140,valve,"12in mainline block valve, ANSI 300",740,40.018794,-104.797176
+SYN-105-V04,SYN-105,45574,valve,"12in mainline block valve, ANSI 300",740,40.044882,-104.75407
+SYN-105-V05,SYN-105,62999,valve,"12in mainline block valve, ANSI 300",740,40.064793,-104.697415
+SYN-105-V06,SYN-105,82458,valve,"12in mainline block valve, ANSI 300",740,40.093581,-104.639306
+SYN-105-V07,SYN-105,97857,valve,"12in mainline block valve, ANSI 300",740,40.112019,-104.589763
+SYN-105-V08,SYN-105,101400,valve,"12in mainline block valve, ANSI 300",740,40.115654,-104.57801
+SYN-105-TP01,SYN-105,2640,cp_test_station,CP test station,,39.957163,-104.851473
+SYN-105-TP02,SYN-105,7920,cp_test_station,CP test station,,39.970851,-104.845937
+SYN-105-TP03,SYN-105,13200,cp_test_station,CP test station,,39.98257,-104.83489
+SYN-105-TP04,SYN-105,18480,cp_test_station,CP test station,,39.993458,-104.822503
+SYN-105-TP05,SYN-105,23760,cp_test_station,CP test station,,40.005046,-104.811297
+SYN-105-TP06,SYN-105,29040,cp_test_station,CP test station,,40.016258,-104.79932
+SYN-105-TP07,SYN-105,34320,cp_test_station,CP test station,,40.02706,-104.786972
+SYN-105-TP08,SYN-105,39600,cp_test_station,CP test station,,40.035455,-104.771547
+SYN-105-TP09,SYN-105,44880,cp_test_station,CP test station,,40.04393,-104.75623
+SYN-105-TP10,SYN-105,50160,cp_test_station,CP test station,,40.049776,-104.738931
+SYN-105-TP11,SYN-105,55440,cp_test_station,CP test station,,40.056276,-104.722041
+SYN-105-TP12,SYN-105,60720,cp_test_station,CP test station,,40.061566,-104.704418
+SYN-105-TP13,SYN-105,66000,cp_test_station,CP test station,,40.070135,-104.689229
+SYN-105-TP14,SYN-105,71280,cp_test_station,CP test station,,40.077608,-104.673183
+SYN-105-TP15,SYN-105,76560,cp_test_station,CP test station,,40.085651,-104.657451
+SYN-105-TP16,SYN-105,81840,cp_test_station,CP test station,,40.092964,-104.641373
+SYN-105-TP17,SYN-105,87120,cp_test_station,CP test station,,40.099163,-104.624263
+SYN-105-TP18,SYN-105,92400,cp_test_station,CP test station,,40.105384,-104.607254
+SYN-105-TP19,SYN-105,97680,cp_test_station,CP test station,,40.111759,-104.590301
+SYN-105-X01,SYN-105,22577,water_crossing,water crossing,,40.002499,-104.813927
+SYN-105-X02,SYN-105,18068,foreign_line_crossing,foreign line crossing,,39.992488,-104.823266
+SYN-106-V01,SYN-106,0,valve,"8in mainline block valve, ANSI 900",2220,39.85,-82.95
+SYN-106-V02,SYN-106,17683,valve,"8in mainline block valve, ANSI 900",2220,39.801747,-82.945695
+SYN-106-V03,SYN-106,56194,valve,"8in mainline block valve, ANSI 900",2220,39.701148,-82.907886
+SYN-106-V04,SYN-106,67600,valve,"8in mainline block valve, ANSI 900",2220,39.670618,-82.911088
+SYN-106-TP01,SYN-106,2640,cp_test_station,CP test station,,39.842776,-82.95028
+SYN-106-TP02,SYN-106,7920,cp_test_station,CP test station,,39.828332,-82.948798
+SYN-106-TP03,SYN-106,13200,cp_test_station,CP test station,,39.814022,-82.946087
+SYN-106-TP04,SYN-106,18480,cp_test_station,CP test station,,39.799575,-82.945339
+SYN-106-TP05,SYN-106,23760,cp_test_station,CP test station,,39.785397,-82.941503
+SYN-106-TP06,SYN-106,29040,cp_test_station,CP test station,,39.770999,-82.939465
+SYN-106-TP07,SYN-106,34320,cp_test_station,CP test station,,39.757272,-82.933983
+SYN-106-TP08,SYN-106,39600,cp_test_station,CP test station,,39.743819,-82.927146
+SYN-106-TP09,SYN-106,44880,cp_test_station,CP test station,,39.730509,-82.919724
+SYN-106-TP10,SYN-106,50160,cp_test_station,CP test station,,39.717138,-82.912515
+SYN-106-TP11,SYN-106,55440,cp_test_station,CP test station,,39.703207,-82.908165
+SYN-106-TP12,SYN-106,60720,cp_test_station,CP test station,,39.688939,-82.905231
+SYN-106-TP13,SYN-106,66000,cp_test_station,CP test station,,39.674798,-82.909342
+SYN-106-X01,SYN-106,39586,foreign_line_crossing,foreign line crossing,,39.743856,-82.927162
+SYN-106-X02,SYN-106,67364,water_crossing,water crossing,,39.67122,-82.910776
+SYN-106-X03,SYN-106,15541,water_crossing,water crossing,,39.807602,-82.94638
+SYN-106-X04,SYN-106,60544,foreign_line_crossing,foreign line crossing,,39.689423,-82.905237
