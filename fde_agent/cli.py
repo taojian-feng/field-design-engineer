@@ -4,6 +4,7 @@
     python -m fde_agent.cli --db assets.db  # use (and persist) a SQLite asset database
     python -m fde_agent.cli --data data/synthetic  # load the synthetic 6-line system
     python -m fde_agent.cli -p "What is the MAOP of L100 from station 0 to 26400?"
+    python -m fde_agent.cli --data data/synthetic -p "Build the drawing package for SYN-101 station 0 to 30000"
 """
 
 from __future__ import annotations
@@ -13,6 +14,7 @@ import json
 from pathlib import Path
 
 from .agent import FDEAgent
+from .drawings import DrawingIndex
 from .pods_store import PodsStore, seed_sample
 from .tools import ToolBox
 
@@ -31,6 +33,8 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Pipeline Field Design Engineer agent")
     ap.add_argument("--db", default=None, help="SQLite asset database (default: in-memory sample)")
     ap.add_argument("--data", default=None, help="Load table CSVs from this folder (e.g. data/synthetic)")
+    ap.add_argument("--drawings", default=None,
+                    help="Drawing sources folder with edms/, vendor/, gis/, shared_drive/ (default: <data>/drawings)")
     ap.add_argument("--output", default="output", help="Folder for saved deliverables")
     ap.add_argument("--effort", default="high", choices=["low", "medium", "high", "xhigh", "max"])
     ap.add_argument("-p", "--prompt", help="Run one request and exit")
@@ -42,13 +46,17 @@ def main() -> None:
         store.load_csv_dir(args.data)
     elif fresh:
         seed_sample(store)
-    agent = FDEAgent(ToolBox(store, args.output, approve=_approve), effort=args.effort, on_event=_event)
+    dwg_dir = args.drawings or (Path(args.data) / "drawings" if args.data else None)
+    drawings = DrawingIndex.from_folder(dwg_dir, store) if dwg_dir and Path(dwg_dir).is_dir() else None
+    agent = FDEAgent(ToolBox(store, args.output, approve=_approve, drawings=drawings), effort=args.effort,
+                     on_event=_event)
 
     if args.prompt:
         print(agent.ask(args.prompt))
         return
     lines = ", ".join(p["pipeline_id"] for p in store.list_pipelines())
-    print(f"FDE agent ready. Pipelines: {lines}. Ctrl-D to exit.")
+    dwg = f" {len(drawings.families)} drawings indexed." if drawings else ""
+    print(f"FDE agent ready. Pipelines: {lines}.{dwg} Ctrl-D to exit.")
     while True:
         try:
             q = input("\nengineer> ").strip()

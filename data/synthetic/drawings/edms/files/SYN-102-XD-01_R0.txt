@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Water Crossing at STA 128+85
+DRAWING NO: SYN-102-XD-01
+REV: 0
+DATE: 2014-08-04
+STATUS: As-Built
+PIPELINE: SYN-102
+STATIONS: 12885-12885
+-- DATA --
+crossing: tag=SYN-102-X01; station_ft=12885; crossing_type=water_crossing; method=HDD
+-- REVISION BLOCK --
+A | 2014-04-24 | Issued for review
+0 | 2014-08-04 | Issued for construction

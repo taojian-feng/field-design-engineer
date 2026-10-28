@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Bayou Crossing Line alignment sheet STA 100+00 to 200+00
+DRAWING NO: SYN-104-AL-002
+REV: 0
+DATE: 2015-09-23
+STATUS: Superseded
+PIPELINE: SYN-104
+STATIONS: 10000-20000
+-- DATA --
+SYN-104-S02: begin_station_ft=6500.0; end_station_ft=14100.0; nps=24; wall_in=0.375; grade=X46; seam_type=erw; coating=Bare
+SYN-104-S03: begin_station_ft=14100.0; end_station_ft=24000.0; nps=24; wall_in=0.344; grade=X65; seam_type=erw; coating=3LPE
+-- REVISION BLOCK --
+A | 2015-04-13 | Issued for review
+0 | 2015-09-23 | Issued for construction

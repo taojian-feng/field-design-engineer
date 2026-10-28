@@ -1,0 +1,13 @@
+PECOS VALVE CO.
+TITLE: Pecos Valve Co. ball valve general arrangement
+DRAWING NO: PVC-7285-GA-10
+REV: A
+DATE: 2014-12-04
+STATUS: Approved
+VENDOR: Pecos Valve Co.
+PO: 4500335
+TAG: SYN-104-V01
+-- DATA --
+valve: part_number=PVC-FB243-99106; model=FB-300; nps=24; ansi_class=300; rating_psig=740; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2014-12-04 | Submitted for review

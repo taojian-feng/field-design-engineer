@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Foreign Line Crossing at STA 395+86
+DRAWING NO: SYN-106-XD-01
+REV: 1
+DATE: 2020-11-10
+STATUS: As-Built
+PIPELINE: SYN-106
+STATIONS: 39586-39586
+-- DATA --
+crossing: tag=SYN-106-X01; station_ft=39586; crossing_type=foreign_line_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2019-04-13 | Issued for review
+0 | 2020-01-26 | Issued for construction
+1 | 2020-11-10 | As-built per field survey

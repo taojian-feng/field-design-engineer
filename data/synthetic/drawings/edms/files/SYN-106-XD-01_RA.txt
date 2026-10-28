@@ -1,0 +1,12 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Foreign Line Crossing at STA 395+86
+DRAWING NO: SYN-106-XD-01
+REV: A
+DATE: 2019-04-13
+STATUS: Superseded
+PIPELINE: SYN-106
+STATIONS: 39586-39586
+-- DATA --
+crossing: tag=SYN-106-X01; station_ft=39611; crossing_type=foreign_line_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2019-04-13 | Issued for review

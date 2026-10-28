@@ -1,0 +1,12 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Water Crossing at STA 82+02
+DRAWING NO: SYN-104-XD-01
+REV: A
+DATE: 2019-09-16
+STATUS: Superseded
+PIPELINE: SYN-104
+STATIONS: 8202-8202
+-- DATA --
+crossing: tag=SYN-104-X01; station_ft=8202; crossing_type=water_crossing; method=open cut
+-- REVISION BLOCK --
+A | 2019-09-16 | Issued for review

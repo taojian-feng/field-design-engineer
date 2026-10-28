@@ -21,6 +21,7 @@ import random
 from pathlib import Path
 
 from . import calcs, codes
+from .drawings.synth import generate_drawings
 from .pods_store import PodsStore
 
 # Share of U.S. gas distribution mains miles by install decade, PHMSA annual reports for 2025 (PUDL table
@@ -289,6 +290,8 @@ def generate(out: str | Path, seed: int = 7, n_pipelines: int = 6) -> dict:
             w.writerows(obs)
 
     _write_projects(rng, out, T, key)
+    # Drawings use their own random stream so the asset tables above stay the same for a given seed.
+    key["drawing_discrepancies"] = generate_drawings(out, T, seed)
     for table, rows in T.items():
         _write_csv(out / f"{table}.csv", rows)
     _write_geojson(out / "geojson", T, routes)

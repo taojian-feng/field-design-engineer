@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Foreign Line Crossing at STA 46+21
+DRAWING NO: SYN-101-XD-04
+REV: 0
+DATE: 2016-07-06
+STATUS: IFC
+PIPELINE: SYN-101
+STATIONS: 4621-4621
+-- DATA --
+crossing: tag=SYN-101-X04; station_ft=4621; crossing_type=foreign_line_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2016-03-24 | Issued for review
+0 | 2016-07-06 | Issued for construction

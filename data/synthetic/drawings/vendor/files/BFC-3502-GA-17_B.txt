@@ -1,0 +1,14 @@
+BLUESTEM FLOW CONTROLS
+TITLE: Bluestem Flow Controls ball valve general arrangement
+DRAWING NO: BFC-3502-GA-17
+REV: B
+DATE: 2016-10-06
+STATUS: Approved
+VENDOR: Bluestem Flow Controls
+PO: 4500252
+TAG: SYN-103-V02
+-- DATA --
+valve: part_number=BFC-TB126-93592; model=TB-600; nps=12; ansi_class=600; rating_psig=1480; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2016-02-13 | Submitted for review
+B | 2016-10-06 | Submitted for review

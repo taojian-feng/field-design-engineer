@@ -1,0 +1,13 @@
+BLUESTEM FLOW CONTROLS
+TITLE: Bluestem Flow Controls ball valve general arrangement
+DRAWING NO: BFC-2076-GA-02
+REV: A
+DATE: 2017-11-20
+STATUS: Resubmit
+VENDOR: Bluestem Flow Controls
+PO: 4500428
+TAG: SYN-105-V05
+-- DATA --
+valve: part_number=BFC-TB123-95549; model=TB-300; nps=12; ansi_class=300; rating_psig=740; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2017-11-20 | Submitted for review

@@ -1,0 +1,15 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-101-V02 mainline block valve installation detail
+DRAWING NO: SYN-101-VD-02
+REV: 1
+DATE: 2019-09-10
+STATUS: As-Built
+PIPELINE: SYN-101
+STATIONS: 25344-25344
+REFERENCES: BFC-8368-GA-12 REV B
+-- DATA --
+valve: tag=SYN-101-V02; station_ft=25344; nps=10; ansi_class=300; rating_psig=740; part_number=BFC-TB103-22738; end_connection=RF
+-- REVISION BLOCK --
+A | 2018-12-06 | Issued for review
+0 | 2019-02-16 | Issued for construction
+1 | 2019-09-10 | As-built per field survey

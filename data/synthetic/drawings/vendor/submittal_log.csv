@@ -1,0 +1,40 @@
+submittal_id,vendor,vendor_doc_number,vendor_rev,po_number,tag,pipeline_id,status,reviewed_date,review_comments,file
+SUB-4500428-A,Bluestem Flow Controls,BFC-2076-GA-02,A,4500428,SYN-105-V05,SYN-105,Resubmit,2017-11-20,Add NDE map and hydrotest procedure.,files/BFC-2076-GA-02_A.txt
+SUB-4500428-B,Bluestem Flow Controls,BFC-2076-GA-02,B,4500428,SYN-105-V05,SYN-105,Approved,2018-06-20,,files/BFC-2076-GA-02_B.txt
+SUB-4500252-A,Bluestem Flow Controls,BFC-3502-GA-17,A,4500252,SYN-103-V02,SYN-103,Resubmit,2016-02-13,Add NDE map and hydrotest procedure.,files/BFC-3502-GA-17_A.txt
+SUB-4500252-B,Bluestem Flow Controls,BFC-3502-GA-17,B,4500252,SYN-103-V02,SYN-103,Approved,2016-10-06,,files/BFC-3502-GA-17_B.txt
+SUB-4500244-A,Bluestem Flow Controls,BFC-4084-GA-13,A,4500244,SYN-103-V01,SYN-103,Resubmit,2014-04-17,Add NDE map and hydrotest procedure.,files/BFC-4084-GA-13_A.txt
+SUB-4500244-B,Bluestem Flow Controls,BFC-4084-GA-13,B,4500244,SYN-103-V01,SYN-103,Approved as Noted,2015-03-12,,files/BFC-4084-GA-13_B.txt
+SUB-4500345-A,Bluestem Flow Controls,BFC-5406-GA-08,A,4500345,SYN-104-V03,SYN-104,Approved,2018-11-16,,files/BFC-5406-GA-08_A.txt
+SUB-4500133-A,Bluestem Flow Controls,BFC-6689-GA-16,A,4500133,SYN-101-V01,SYN-101,Resubmit,2016-11-25,Add NDE map and hydrotest procedure.,files/BFC-6689-GA-16_A.txt
+SUB-4500133-B,Bluestem Flow Controls,BFC-6689-GA-16,B,4500133,SYN-101-V01,SYN-101,Approved as Noted,2018-01-03,,files/BFC-6689-GA-16_B.txt
+SUB-4500150-A,Bluestem Flow Controls,BFC-8368-GA-12,A,4500150,SYN-101-V02,SYN-101,Resubmit,2017-04-03,Add NDE map and hydrotest procedure.,files/BFC-8368-GA-12_A.txt
+SUB-4500150-B,Bluestem Flow Controls,BFC-8368-GA-12,B,4500150,SYN-101-V02,SYN-101,Approved,2017-11-07,,files/BFC-8368-GA-12_B.txt
+SUB-4500485-A,Pecos Valve Co.,PVC-1530-GA-14,A,4500485,SYN-106-V01,SYN-106,Approved,2016-08-24,,files/PVC-1530-GA-14_A.txt
+SUB-4500387-A,Pecos Valve Co.,PVC-1697-GA-04,A,4500387,SYN-105-V02,SYN-105,Resubmit,2014-02-18,Add NDE map and hydrotest procedure.,files/PVC-1697-GA-04_A.txt
+SUB-4500387-B,Pecos Valve Co.,PVC-1697-GA-04,B,4500387,SYN-105-V02,SYN-105,Approved,2015-04-04,,files/PVC-1697-GA-04_B.txt
+SUB-4500554-A,Pecos Valve Co.,PVC-2441-GA-03,A,4500554,SYN-106-V04,SYN-106,Resubmit,2015-01-18,Add NDE map and hydrotest procedure.,files/PVC-2441-GA-03_A.txt
+SUB-4500554-B,Pecos Valve Co.,PVC-2441-GA-03,B,4500554,SYN-106-V04,SYN-106,Approved,2015-11-03,,files/PVC-2441-GA-03_B.txt
+SUB-4500342-A,Pecos Valve Co.,PVC-5273-GA-08,A,4500342,SYN-104-V02,SYN-104,Resubmit,2018-10-14,Add NDE map and hydrotest procedure.,files/PVC-5273-GA-08_A.txt
+SUB-4500342-B,Pecos Valve Co.,PVC-5273-GA-08,B,4500342,SYN-104-V02,SYN-104,Rejected,2019-05-28,Face-to-face dimension does not match station piping; resubmit.,files/PVC-5273-GA-08_B.txt
+SUB-4500229-A,Pecos Valve Co.,PVC-5683-GA-11,A,4500229,SYN-102-V02,SYN-102,Resubmit,2016-04-16,Add NDE map and hydrotest procedure.,files/PVC-5683-GA-11_A.txt
+SUB-4500229-B,Pecos Valve Co.,PVC-5683-GA-11,B,4500229,SYN-102-V02,SYN-102,Approved as Noted,2017-03-21,,files/PVC-5683-GA-11_B.txt
+SUB-4500456-A,Pecos Valve Co.,PVC-5873-GA-17,A,4500456,SYN-105-V07,SYN-105,Resubmit,2017-06-04,Add NDE map and hydrotest procedure.,files/PVC-5873-GA-17_A.txt
+SUB-4500456-B,Pecos Valve Co.,PVC-5873-GA-17,B,4500456,SYN-105-V07,SYN-105,Approved,2018-05-19,,files/PVC-5873-GA-17_B.txt
+SUB-4500414-A,Pecos Valve Co.,PVC-6265-GA-01,A,4500414,SYN-105-V03,SYN-105,Approved,2015-10-26,,files/PVC-6265-GA-01_A.txt
+SUB-4500187-A,Pecos Valve Co.,PVC-7094-GA-08,A,4500187,SYN-101-V03,SYN-101,Resubmit,2019-06-05,Add NDE map and hydrotest procedure.,files/PVC-7094-GA-08_A.txt
+SUB-4500187-B,Pecos Valve Co.,PVC-7094-GA-08,B,4500187,SYN-101-V03,SYN-101,Approved,2020-04-06,,files/PVC-7094-GA-08_B.txt
+SUB-4500335-A,Pecos Valve Co.,PVC-7285-GA-10,A,4500335,SYN-104-V01,SYN-104,Approved,2014-12-04,,files/PVC-7285-GA-10_A.txt
+SUB-4500301-A,Pecos Valve Co.,PVC-9309-GA-08,A,4500301,SYN-103-V04,SYN-103,Resubmit,2014-10-28,Add NDE map and hydrotest procedure.,files/PVC-9309-GA-08_A.txt
+SUB-4500301-B,Pecos Valve Co.,PVC-9309-GA-08,B,4500301,SYN-103-V04,SYN-103,Approved as Noted,2015-07-04,,files/PVC-9309-GA-08_B.txt
+SUB-4500192-A,Ridgeline Valve Works,RVW-1400-GA-15,A,4500192,SYN-102-V01,SYN-102,Approved,2019-02-23,,files/RVW-1400-GA-15_A.txt
+SUB-4500525-A,Ridgeline Valve Works,RVW-1420-GA-12,A,4500525,SYN-106-V02,SYN-106,Resubmit,2017-04-01,Add NDE map and hydrotest procedure.,files/RVW-1420-GA-12_A.txt
+SUB-4500525-B,Ridgeline Valve Works,RVW-1420-GA-12,B,4500525,SYN-106-V02,SYN-106,Approved,2018-03-12,,files/RVW-1420-GA-12_B.txt
+SUB-4500482-A,Ridgeline Valve Works,RVW-2447-GA-17,A,4500482,SYN-105-V08,SYN-105,Resubmit,2016-06-22,Add NDE map and hydrotest procedure.,files/RVW-2447-GA-17_A.txt
+SUB-4500482-B,Ridgeline Valve Works,RVW-2447-GA-17,B,4500482,SYN-105-V08,SYN-105,Approved as Noted,2016-11-14,,files/RVW-2447-GA-17_B.txt
+SUB-4500380-A,Ridgeline Valve Works,RVW-3167-GA-15,A,4500380,SYN-105-V01,SYN-105,Resubmit,2018-06-12,Add NDE map and hydrotest procedure.,files/RVW-3167-GA-15_A.txt
+SUB-4500380-B,Ridgeline Valve Works,RVW-3167-GA-15,B,4500380,SYN-105-V01,SYN-105,Approved as Noted,2019-01-13,,files/RVW-3167-GA-15_B.txt
+SUB-4500450-A,Ridgeline Valve Works,RVW-4798-GA-06,A,4500450,SYN-105-V06,SYN-105,Approved,2017-02-11,,files/RVW-4798-GA-06_A.txt
+SUB-4500425-A,Ridgeline Valve Works,RVW-6512-GA-16,A,4500425,SYN-105-V04,SYN-105,Approved,2018-03-24,,files/RVW-6512-GA-16_A.txt
+SUB-4500532-A,Ridgeline Valve Works,RVW-7001-GA-08,A,4500532,SYN-106-V03,SYN-106,Approved,2016-12-15,,files/RVW-7001-GA-08_A.txt
+SUB-4500289-A,Ridgeline Valve Works,RVW-8793-GA-19,A,4500289,SYN-103-V03,SYN-103,Approved,2016-06-18,,files/RVW-8793-GA-19_A.txt

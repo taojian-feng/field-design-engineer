@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-105-V03 mainline block valve installation detail
+DRAWING NO: SYN-105-VD-03
+REV: A
+DATE: 2017-08-02
+STATUS: Superseded
+PIPELINE: SYN-105
+STATIONS: 30140-30140
+REFERENCES: PVC-6265-GA-01 REV A
+-- DATA --
+valve: tag=SYN-105-V03; station_ft=30165; nps=12; ansi_class=300; rating_psig=740; part_number=PVC-FB123-60517; end_connection=RF
+-- REVISION BLOCK --
+A | 2017-08-02 | Issued for review

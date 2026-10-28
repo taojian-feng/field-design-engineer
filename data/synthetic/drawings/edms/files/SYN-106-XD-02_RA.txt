@@ -1,0 +1,12 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Water Crossing at STA 673+64
+DRAWING NO: SYN-106-XD-02
+REV: A
+DATE: 2014-07-08
+STATUS: Superseded
+PIPELINE: SYN-106
+STATIONS: 67364-67364
+-- DATA --
+crossing: tag=SYN-106-X02; station_ft=67364; crossing_type=water_crossing; method=open cut
+-- REVISION BLOCK --
+A | 2014-07-08 | Issued for review

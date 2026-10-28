@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Allegheny Gathering Trunk alignment sheet STA 100+00 to 200+00
+DRAWING NO: SYN-103-AL-002
+REV: 0
+DATE: 2014-07-17
+STATUS: Superseded
+PIPELINE: SYN-103
+STATIONS: 10000-20000
+-- DATA --
+SYN-103-S02: begin_station_ft=9700.0; end_station_ft=16100.0; nps=12; wall_in=0.344; grade=X60; seam_type=erw; coating=FBE
+SYN-103-S03: begin_station_ft=16100.0; end_station_ft=26500.0; nps=12; wall_in=0.344; grade=X70; seam_type=erw; coating=FBE
+-- REVISION BLOCK --
+A | 2014-01-05 | Issued for review
+0 | 2014-07-17 | Issued for construction

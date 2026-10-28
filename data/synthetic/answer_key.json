@@ -378,6 +378,188 @@
           }
         ]
       }
+    ],
+    "drawing_discrepancies": [
+      {
+        "type": "revision_gap",
+        "doc_number": "SYN-105-AL-002",
+        "pipeline_id": "SYN-105",
+        "detail": "Rev 1 missing from the EDMS register"
+      },
+      {
+        "type": "part_number_mismatch",
+        "doc_number": "SYN-101-VD-03",
+        "pipeline_id": "SYN-101",
+        "detail": "Design part number differs in the last digit from the vendor GA"
+      },
+      {
+        "type": "part_number_mismatch",
+        "doc_number": "SYN-106-VD-01",
+        "pipeline_id": "SYN-106",
+        "detail": "Design part number differs in the last digit from the vendor GA"
+      },
+      {
+        "type": "vendor_rating_mismatch",
+        "doc_number": "SYN-106-VD-02",
+        "pipeline_id": "SYN-106",
+        "detail": "Vendor GA shows ANSI 300; design calls for ANSI 900"
+      },
+      {
+        "type": "vendor_not_approved",
+        "doc_number": "SYN-104-VD-02",
+        "pipeline_id": "SYN-104",
+        "detail": "Cited vendor drawing revision is Rejected"
+      },
+      {
+        "type": "record_mismatch",
+        "doc_number": "SYN-101-AL-005",
+        "pipeline_id": "SYN-101",
+        "detail": "As-built wall thickness differs from the pipe segment record"
+      },
+      {
+        "type": "record_mismatch",
+        "doc_number": "SYN-105-VD-03",
+        "pipeline_id": "SYN-105",
+        "detail": "Valve station on the drawing differs from the asset record"
+      },
+      {
+        "type": "title_block_mismatch",
+        "doc_number": "SYN-103-XD-01",
+        "pipeline_id": "SYN-103",
+        "detail": "EDMS register revision differs from the title block on the attached file"
+      },
+      {
+        "type": "superseded_reference",
+        "doc_number": "SYN-105-XD-02",
+        "pipeline_id": "SYN-105",
+        "detail": "GIS feature SYN-105-X02 cites superseded rev 0"
+      },
+      {
+        "type": "superseded_reference",
+        "doc_number": "SYN-101-AL-002",
+        "pipeline_id": "SYN-101",
+        "detail": "GIS feature SYN-101-S03 cites superseded rev A"
+      },
+      {
+        "type": "broken_reference",
+        "doc_number": "SYN-101-XD-91",
+        "pipeline_id": "SYN-101",
+        "detail": "GIS feature SYN-101-X01 cites a drawing number that does not exist"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-101-AL-001",
+        "pipeline_id": "SYN-101",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-101-AL-004",
+        "pipeline_id": "SYN-101",
+        "detail": "Shared drive copy of superseded rev 1"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-101-VD-02",
+        "pipeline_id": "SYN-101",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-101-XD-04",
+        "pipeline_id": "SYN-101",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-102-AL-003",
+        "pipeline_id": "SYN-102",
+        "detail": "Shared drive copy of superseded rev 1"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-103-AL-002",
+        "pipeline_id": "SYN-103",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-103-VD-02",
+        "pipeline_id": "SYN-103",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-105-AL-001",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-105-AL-006",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-105-AL-009",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-105-VD-07",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-105-XD-01",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-106-AL-001",
+        "pipeline_id": "SYN-106",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-106-AL-003",
+        "pipeline_id": "SYN-106",
+        "detail": "Shared drive copy of superseded rev 0"
+      },
+      {
+        "type": "stale_copy",
+        "doc_number": "SYN-106-XD-04",
+        "pipeline_id": "SYN-106",
+        "detail": "Shared drive copy of superseded rev A"
+      },
+      {
+        "type": "uncontrolled_revision",
+        "doc_number": "SYN-105-AL-005",
+        "pipeline_id": "SYN-105",
+        "detail": "Rev 2 redline on the shared drive was never checked into document control"
+      },
+      {
+        "type": "conflicting_copy",
+        "doc_number": "SYN-102-VD-01",
+        "pipeline_id": "SYN-102",
+        "detail": "Shared drive rev 1 content differs from the controlled rev 1"
+      },
+      {
+        "type": "conflicting_copy",
+        "doc_number": "SYN-105-VD-05",
+        "pipeline_id": "SYN-105",
+        "detail": "Shared drive rev 1 content differs from the controlled rev 1"
+      },
+      {
+        "type": "title_block_mismatch",
+        "doc_number": "SYN-105-VD-04",
+        "pipeline_id": "SYN-105",
+        "detail": "File name says the previous revision; the title block is the current revision"
+      }
     ]
   }
 }

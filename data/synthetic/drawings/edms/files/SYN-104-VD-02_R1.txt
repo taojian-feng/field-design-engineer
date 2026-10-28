@@ -1,0 +1,15 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-104-V02 mainline block valve installation detail
+DRAWING NO: SYN-104-VD-02
+REV: 1
+DATE: 2019-02-07
+STATUS: IFC
+PIPELINE: SYN-104
+STATIONS: 17798-17798
+REFERENCES: PVC-5273-GA-08 REV B
+-- DATA --
+valve: tag=SYN-104-V02; station_ft=17798; nps=24; ansi_class=300; rating_psig=740; part_number=PVC-FB243-52847; end_connection=RF
+-- REVISION BLOCK --
+A | 2017-06-28 | Issued for review
+0 | 2018-03-14 | Issued for construction
+1 | 2019-02-07 | Revised per FCR-0897

@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Red River Header alignment sheet STA 200+00 to 241+00
+DRAWING NO: SYN-102-AL-003
+REV: 1
+DATE: 2019-01-19
+STATUS: Superseded
+PIPELINE: SYN-102
+STATIONS: 20000-24100
+-- DATA --
+SYN-102-S03: begin_station_ft=19400.0; end_station_ft=24100.0; nps=20; wall_in=0.5; grade=X52; seam_type=dsaw; coating=Polyethylene tape
+-- REVISION BLOCK --
+A | 2016-11-07 | Issued for review
+0 | 2017-12-08 | Issued for construction
+1 | 2019-01-19 | Revised per FCR-0565

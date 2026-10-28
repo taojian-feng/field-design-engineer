@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-104-V03 mainline block valve installation detail
+DRAWING NO: SYN-104-VD-03
+REV: A
+DATE: 2016-01-02
+STATUS: Superseded
+PIPELINE: SYN-104
+STATIONS: 24000-24000
+REFERENCES: BFC-5406-GA-08 REV A
+-- DATA --
+valve: tag=SYN-104-V03; station_ft=23960; nps=24; ansi_class=300; rating_psig=740; part_number=BFC-TB243-33634; end_connection=RF
+-- REVISION BLOCK --
+A | 2016-01-02 | Issued for review

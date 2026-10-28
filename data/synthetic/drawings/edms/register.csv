@@ -1,0 +1,206 @@
+doc_number,rev,title,doc_type,status,rev_date,pipeline_id,begin_station_ft,end_station_ft,file
+SYN-101-AL-001,A,Coastal Prairie Lateral alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2015-02-09,SYN-101,0,10000,files/SYN-101-AL-001_RA.txt
+SYN-101-AL-001,0,Coastal Prairie Lateral alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2015-08-01,SYN-101,0,10000,files/SYN-101-AL-001_R0.txt
+SYN-101-AL-001,1,Coastal Prairie Lateral alignment sheet STA 0+00 to 100+00,alignment_sheet,As-Built,2016-01-08,SYN-101,0,10000,files/SYN-101-AL-001_R1.txt
+SYN-101-AL-002,A,Coastal Prairie Lateral alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2019-03-25,SYN-101,10000,20000,files/SYN-101-AL-002_RA.txt
+SYN-101-AL-002,0,Coastal Prairie Lateral alignment sheet STA 100+00 to 200+00,alignment_sheet,As-Built,2019-05-08,SYN-101,10000,20000,files/SYN-101-AL-002_R0.txt
+SYN-101-AL-003,A,Coastal Prairie Lateral alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2014-09-25,SYN-101,20000,30000,files/SYN-101-AL-003_RA.txt
+SYN-101-AL-003,0,Coastal Prairie Lateral alignment sheet STA 200+00 to 300+00,alignment_sheet,IFC,2015-06-06,SYN-101,20000,30000,files/SYN-101-AL-003_R0.txt
+SYN-101-AL-004,A,Coastal Prairie Lateral alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2018-02-09,SYN-101,30000,40000,files/SYN-101-AL-004_RA.txt
+SYN-101-AL-004,0,Coastal Prairie Lateral alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2019-04-07,SYN-101,30000,40000,files/SYN-101-AL-004_R0.txt
+SYN-101-AL-004,1,Coastal Prairie Lateral alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2020-02-09,SYN-101,30000,40000,files/SYN-101-AL-004_R1.txt
+SYN-101-AL-004,2,Coastal Prairie Lateral alignment sheet STA 300+00 to 400+00,alignment_sheet,As-Built,2021-01-02,SYN-101,30000,40000,files/SYN-101-AL-004_R2.txt
+SYN-101-AL-005,A,Coastal Prairie Lateral alignment sheet STA 400+00 to 500+00,alignment_sheet,Superseded,2018-12-05,SYN-101,40000,50000,files/SYN-101-AL-005_RA.txt
+SYN-101-AL-005,0,Coastal Prairie Lateral alignment sheet STA 400+00 to 500+00,alignment_sheet,As-Built,2019-06-06,SYN-101,40000,50000,files/SYN-101-AL-005_R0.txt
+SYN-101-AL-006,A,Coastal Prairie Lateral alignment sheet STA 500+00 to 519+00,alignment_sheet,Superseded,2015-07-12,SYN-101,50000,51900,files/SYN-101-AL-006_RA.txt
+SYN-101-AL-006,0,Coastal Prairie Lateral alignment sheet STA 500+00 to 519+00,alignment_sheet,Superseded,2015-09-17,SYN-101,50000,51900,files/SYN-101-AL-006_R0.txt
+SYN-101-AL-006,1,Coastal Prairie Lateral alignment sheet STA 500+00 to 519+00,alignment_sheet,IFC,2015-12-14,SYN-101,50000,51900,files/SYN-101-AL-006_R1.txt
+SYN-101-VD-01,A,SYN-101-V01 mainline block valve installation detail,valve_detail,Superseded,2019-03-22,SYN-101,0,0,files/SYN-101-VD-01_RA.txt
+SYN-101-VD-01,0,SYN-101-V01 mainline block valve installation detail,valve_detail,As-Built,2020-04-24,SYN-101,0,0,files/SYN-101-VD-01_R0.txt
+SYN-101-VD-02,A,SYN-101-V02 mainline block valve installation detail,valve_detail,Superseded,2018-12-06,SYN-101,25344,25344,files/SYN-101-VD-02_RA.txt
+SYN-101-VD-02,0,SYN-101-V02 mainline block valve installation detail,valve_detail,Superseded,2019-02-16,SYN-101,25344,25344,files/SYN-101-VD-02_R0.txt
+SYN-101-VD-02,1,SYN-101-V02 mainline block valve installation detail,valve_detail,As-Built,2019-09-10,SYN-101,25344,25344,files/SYN-101-VD-02_R1.txt
+SYN-101-VD-03,A,SYN-101-V03 mainline block valve installation detail,valve_detail,Superseded,2015-05-15,SYN-101,51900,51900,files/SYN-101-VD-03_RA.txt
+SYN-101-VD-03,0,SYN-101-V03 mainline block valve installation detail,valve_detail,As-Built,2015-11-18,SYN-101,51900,51900,files/SYN-101-VD-03_R0.txt
+SYN-101-XD-01,A,Road Crossing at STA 401+22,crossing_detail,Superseded,2018-10-04,SYN-101,40122,40122,files/SYN-101-XD-01_RA.txt
+SYN-101-XD-01,0,Road Crossing at STA 401+22,crossing_detail,As-Built,2019-09-19,SYN-101,40122,40122,files/SYN-101-XD-01_R0.txt
+SYN-101-XD-02,A,Foreign Line Crossing at STA 7+70,crossing_detail,Superseded,2014-09-07,SYN-101,770,770,files/SYN-101-XD-02_RA.txt
+SYN-101-XD-02,0,Foreign Line Crossing at STA 7+70,crossing_detail,Superseded,2015-07-17,SYN-101,770,770,files/SYN-101-XD-02_R0.txt
+SYN-101-XD-02,1,Foreign Line Crossing at STA 7+70,crossing_detail,IFC,2015-12-14,SYN-101,770,770,files/SYN-101-XD-02_R1.txt
+SYN-101-XD-03,A,Water Crossing at STA 73+96,crossing_detail,Superseded,2019-11-01,SYN-101,7396,7396,files/SYN-101-XD-03_RA.txt
+SYN-101-XD-03,0,Water Crossing at STA 73+96,crossing_detail,Superseded,2020-09-17,SYN-101,7396,7396,files/SYN-101-XD-03_R0.txt
+SYN-101-XD-03,1,Water Crossing at STA 73+96,crossing_detail,As-Built,2021-09-15,SYN-101,7396,7396,files/SYN-101-XD-03_R1.txt
+SYN-101-XD-04,A,Foreign Line Crossing at STA 46+21,crossing_detail,Superseded,2016-03-24,SYN-101,4621,4621,files/SYN-101-XD-04_RA.txt
+SYN-101-XD-04,0,Foreign Line Crossing at STA 46+21,crossing_detail,IFC,2016-07-06,SYN-101,4621,4621,files/SYN-101-XD-04_R0.txt
+SYN-102-AL-001,A,Red River Header alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2017-09-07,SYN-102,0,10000,files/SYN-102-AL-001_RA.txt
+SYN-102-AL-001,0,Red River Header alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2018-07-12,SYN-102,0,10000,files/SYN-102-AL-001_R0.txt
+SYN-102-AL-001,1,Red River Header alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2019-06-01,SYN-102,0,10000,files/SYN-102-AL-001_R1.txt
+SYN-102-AL-001,2,Red River Header alignment sheet STA 0+00 to 100+00,alignment_sheet,As-Built,2020-05-28,SYN-102,0,10000,files/SYN-102-AL-001_R2.txt
+SYN-102-AL-002,A,Red River Header alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2018-04-24,SYN-102,10000,20000,files/SYN-102-AL-002_RA.txt
+SYN-102-AL-002,0,Red River Header alignment sheet STA 100+00 to 200+00,alignment_sheet,As-Built,2018-11-15,SYN-102,10000,20000,files/SYN-102-AL-002_R0.txt
+SYN-102-AL-003,A,Red River Header alignment sheet STA 200+00 to 241+00,alignment_sheet,Superseded,2016-11-07,SYN-102,20000,24100,files/SYN-102-AL-003_RA.txt
+SYN-102-AL-003,0,Red River Header alignment sheet STA 200+00 to 241+00,alignment_sheet,Superseded,2017-12-08,SYN-102,20000,24100,files/SYN-102-AL-003_R0.txt
+SYN-102-AL-003,1,Red River Header alignment sheet STA 200+00 to 241+00,alignment_sheet,Superseded,2019-01-19,SYN-102,20000,24100,files/SYN-102-AL-003_R1.txt
+SYN-102-AL-003,2,Red River Header alignment sheet STA 200+00 to 241+00,alignment_sheet,As-Built,2019-08-24,SYN-102,20000,24100,files/SYN-102-AL-003_R2.txt
+SYN-102-VD-01,A,SYN-102-V01 mainline block valve installation detail,valve_detail,Superseded,2016-03-02,SYN-102,0,0,files/SYN-102-VD-01_RA.txt
+SYN-102-VD-01,0,SYN-102-V01 mainline block valve installation detail,valve_detail,Superseded,2016-11-28,SYN-102,0,0,files/SYN-102-VD-01_R0.txt
+SYN-102-VD-01,1,SYN-102-V01 mainline block valve installation detail,valve_detail,IFC,2018-01-13,SYN-102,0,0,files/SYN-102-VD-01_R1.txt
+SYN-102-VD-02,A,SYN-102-V02 mainline block valve installation detail,valve_detail,Superseded,2017-08-18,SYN-102,24100,24100,files/SYN-102-VD-02_RA.txt
+SYN-102-VD-02,0,SYN-102-V02 mainline block valve installation detail,valve_detail,IFC,2018-07-15,SYN-102,24100,24100,files/SYN-102-VD-02_R0.txt
+SYN-102-XD-01,A,Water Crossing at STA 128+85,crossing_detail,Superseded,2014-04-24,SYN-102,12885,12885,files/SYN-102-XD-01_RA.txt
+SYN-102-XD-01,0,Water Crossing at STA 128+85,crossing_detail,As-Built,2014-08-04,SYN-102,12885,12885,files/SYN-102-XD-01_R0.txt
+SYN-102-XD-02,A,Road Crossing at STA 146+58,crossing_detail,Superseded,2017-06-20,SYN-102,14658,14658,files/SYN-102-XD-02_RA.txt
+SYN-102-XD-02,0,Road Crossing at STA 146+58,crossing_detail,Superseded,2018-07-15,SYN-102,14658,14658,files/SYN-102-XD-02_R0.txt
+SYN-102-XD-02,1,Road Crossing at STA 146+58,crossing_detail,IFC,2018-10-18,SYN-102,14658,14658,files/SYN-102-XD-02_R1.txt
+SYN-102-XD-03,A,Road Crossing at STA 30+25,crossing_detail,Superseded,2018-12-25,SYN-102,3025,3025,files/SYN-102-XD-03_RA.txt
+SYN-102-XD-03,0,Road Crossing at STA 30+25,crossing_detail,Superseded,2019-05-02,SYN-102,3025,3025,files/SYN-102-XD-03_R0.txt
+SYN-102-XD-03,1,Road Crossing at STA 30+25,crossing_detail,IFC,2020-05-24,SYN-102,3025,3025,files/SYN-102-XD-03_R1.txt
+SYN-103-AL-001,A,Allegheny Gathering Trunk alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2017-01-24,SYN-103,0,10000,files/SYN-103-AL-001_RA.txt
+SYN-103-AL-001,0,Allegheny Gathering Trunk alignment sheet STA 0+00 to 100+00,alignment_sheet,As-Built,2017-09-05,SYN-103,0,10000,files/SYN-103-AL-001_R0.txt
+SYN-103-AL-002,A,Allegheny Gathering Trunk alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2014-01-05,SYN-103,10000,20000,files/SYN-103-AL-002_RA.txt
+SYN-103-AL-002,0,Allegheny Gathering Trunk alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2014-07-17,SYN-103,10000,20000,files/SYN-103-AL-002_R0.txt
+SYN-103-AL-002,1,Allegheny Gathering Trunk alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2015-02-03,SYN-103,10000,20000,files/SYN-103-AL-002_R1.txt
+SYN-103-AL-002,2,Allegheny Gathering Trunk alignment sheet STA 100+00 to 200+00,alignment_sheet,As-Built,2015-11-17,SYN-103,10000,20000,files/SYN-103-AL-002_R2.txt
+SYN-103-AL-003,A,Allegheny Gathering Trunk alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2014-03-02,SYN-103,20000,30000,files/SYN-103-AL-003_RA.txt
+SYN-103-AL-003,0,Allegheny Gathering Trunk alignment sheet STA 200+00 to 300+00,alignment_sheet,As-Built,2015-02-08,SYN-103,20000,30000,files/SYN-103-AL-003_R0.txt
+SYN-103-AL-004,A,Allegheny Gathering Trunk alignment sheet STA 300+00 to 320+00,alignment_sheet,Superseded,2017-10-22,SYN-103,30000,32000,files/SYN-103-AL-004_RA.txt
+SYN-103-AL-004,0,Allegheny Gathering Trunk alignment sheet STA 300+00 to 320+00,alignment_sheet,IFC,2018-01-27,SYN-103,30000,32000,files/SYN-103-AL-004_R0.txt
+SYN-103-VD-01,A,SYN-103-V01 mainline block valve installation detail,valve_detail,Superseded,2014-04-02,SYN-103,0,0,files/SYN-103-VD-01_RA.txt
+SYN-103-VD-01,0,SYN-103-V01 mainline block valve installation detail,valve_detail,IFC,2015-03-25,SYN-103,0,0,files/SYN-103-VD-01_R0.txt
+SYN-103-VD-02,A,SYN-103-V02 mainline block valve installation detail,valve_detail,Superseded,2015-08-04,SYN-103,12794,12794,files/SYN-103-VD-02_RA.txt
+SYN-103-VD-02,0,SYN-103-V02 mainline block valve installation detail,valve_detail,As-Built,2016-10-25,SYN-103,12794,12794,files/SYN-103-VD-02_R0.txt
+SYN-103-VD-03,A,SYN-103-V03 mainline block valve installation detail,valve_detail,Superseded,2015-12-23,SYN-103,31213,31213,files/SYN-103-VD-03_RA.txt
+SYN-103-VD-03,0,SYN-103-V03 mainline block valve installation detail,valve_detail,Superseded,2017-01-19,SYN-103,31213,31213,files/SYN-103-VD-03_R0.txt
+SYN-103-VD-03,1,SYN-103-V03 mainline block valve installation detail,valve_detail,As-Built,2018-03-04,SYN-103,31213,31213,files/SYN-103-VD-03_R1.txt
+SYN-103-VD-04,A,SYN-103-V04 mainline block valve installation detail,valve_detail,Superseded,2014-06-21,SYN-103,32000,32000,files/SYN-103-VD-04_RA.txt
+SYN-103-VD-04,0,SYN-103-V04 mainline block valve installation detail,valve_detail,Superseded,2014-10-02,SYN-103,32000,32000,files/SYN-103-VD-04_R0.txt
+SYN-103-VD-04,1,SYN-103-V04 mainline block valve installation detail,valve_detail,As-Built,2015-07-27,SYN-103,32000,32000,files/SYN-103-VD-04_R1.txt
+SYN-103-XD-01,A,Road Crossing at STA 247+46,crossing_detail,Superseded,2019-04-01,SYN-103,24746,24746,files/SYN-103-XD-01_RA.txt
+SYN-103-XD-01,0,Road Crossing at STA 247+46,crossing_detail,As-Built,2020-03-24,SYN-103,24746,24746,files/SYN-103-XD-01_R0.txt
+SYN-103-XD-02,A,Foreign Line Crossing at STA 179+29,crossing_detail,Superseded,2015-06-16,SYN-103,17929,17929,files/SYN-103-XD-02_RA.txt
+SYN-103-XD-02,0,Foreign Line Crossing at STA 179+29,crossing_detail,Superseded,2016-08-13,SYN-103,17929,17929,files/SYN-103-XD-02_R0.txt
+SYN-103-XD-02,1,Foreign Line Crossing at STA 179+29,crossing_detail,IFC,2017-09-01,SYN-103,17929,17929,files/SYN-103-XD-02_R1.txt
+SYN-104-AL-001,A,Bayou Crossing Line alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2015-06-15,SYN-104,0,10000,files/SYN-104-AL-001_RA.txt
+SYN-104-AL-001,0,Bayou Crossing Line alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2016-04-14,SYN-104,0,10000,files/SYN-104-AL-001_R0.txt
+SYN-104-AL-001,1,Bayou Crossing Line alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2017-02-11,SYN-104,0,10000,files/SYN-104-AL-001_R1.txt
+SYN-104-AL-001,2,Bayou Crossing Line alignment sheet STA 0+00 to 100+00,alignment_sheet,IFC,2017-07-05,SYN-104,0,10000,files/SYN-104-AL-001_R2.txt
+SYN-104-AL-002,A,Bayou Crossing Line alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2015-04-13,SYN-104,10000,20000,files/SYN-104-AL-002_RA.txt
+SYN-104-AL-002,0,Bayou Crossing Line alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2015-09-23,SYN-104,10000,20000,files/SYN-104-AL-002_R0.txt
+SYN-104-AL-002,1,Bayou Crossing Line alignment sheet STA 100+00 to 200+00,alignment_sheet,As-Built,2016-04-05,SYN-104,10000,20000,files/SYN-104-AL-002_R1.txt
+SYN-104-AL-003,A,Bayou Crossing Line alignment sheet STA 200+00 to 240+00,alignment_sheet,Superseded,2019-01-12,SYN-104,20000,24000,files/SYN-104-AL-003_RA.txt
+SYN-104-AL-003,0,Bayou Crossing Line alignment sheet STA 200+00 to 240+00,alignment_sheet,As-Built,2019-12-22,SYN-104,20000,24000,files/SYN-104-AL-003_R0.txt
+SYN-104-VD-01,A,SYN-104-V01 mainline block valve installation detail,valve_detail,Superseded,2016-03-25,SYN-104,0,0,files/SYN-104-VD-01_RA.txt
+SYN-104-VD-01,0,SYN-104-V01 mainline block valve installation detail,valve_detail,Superseded,2017-02-16,SYN-104,0,0,files/SYN-104-VD-01_R0.txt
+SYN-104-VD-01,1,SYN-104-V01 mainline block valve installation detail,valve_detail,IFC,2017-09-27,SYN-104,0,0,files/SYN-104-VD-01_R1.txt
+SYN-104-VD-02,A,SYN-104-V02 mainline block valve installation detail,valve_detail,Superseded,2017-06-28,SYN-104,17798,17798,files/SYN-104-VD-02_RA.txt
+SYN-104-VD-02,0,SYN-104-V02 mainline block valve installation detail,valve_detail,Superseded,2018-03-14,SYN-104,17798,17798,files/SYN-104-VD-02_R0.txt
+SYN-104-VD-02,1,SYN-104-V02 mainline block valve installation detail,valve_detail,IFC,2019-02-07,SYN-104,17798,17798,files/SYN-104-VD-02_R1.txt
+SYN-104-VD-03,A,SYN-104-V03 mainline block valve installation detail,valve_detail,Superseded,2016-01-02,SYN-104,24000,24000,files/SYN-104-VD-03_RA.txt
+SYN-104-VD-03,0,SYN-104-V03 mainline block valve installation detail,valve_detail,IFC,2016-10-24,SYN-104,24000,24000,files/SYN-104-VD-03_R0.txt
+SYN-104-XD-01,A,Water Crossing at STA 82+02,crossing_detail,Superseded,2019-09-16,SYN-104,8202,8202,files/SYN-104-XD-01_RA.txt
+SYN-104-XD-01,0,Water Crossing at STA 82+02,crossing_detail,As-Built,2020-05-12,SYN-104,8202,8202,files/SYN-104-XD-01_R0.txt
+SYN-105-AL-001,A,Front Range Supply Line alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2016-09-11,SYN-105,0,10000,files/SYN-105-AL-001_RA.txt
+SYN-105-AL-001,0,Front Range Supply Line alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2017-04-15,SYN-105,0,10000,files/SYN-105-AL-001_R0.txt
+SYN-105-AL-001,1,Front Range Supply Line alignment sheet STA 0+00 to 100+00,alignment_sheet,IFC,2018-06-13,SYN-105,0,10000,files/SYN-105-AL-001_R1.txt
+SYN-105-AL-002,A,Front Range Supply Line alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2019-02-25,SYN-105,10000,20000,files/SYN-105-AL-002_RA.txt
+SYN-105-AL-002,0,Front Range Supply Line alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2019-10-19,SYN-105,10000,20000,files/SYN-105-AL-002_R0.txt
+SYN-105-AL-002,2,Front Range Supply Line alignment sheet STA 100+00 to 200+00,alignment_sheet,IFC,2020-05-13,SYN-105,10000,20000,files/SYN-105-AL-002_R2.txt
+SYN-105-AL-003,A,Front Range Supply Line alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2016-02-15,SYN-105,20000,30000,files/SYN-105-AL-003_RA.txt
+SYN-105-AL-003,0,Front Range Supply Line alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2017-01-18,SYN-105,20000,30000,files/SYN-105-AL-003_R0.txt
+SYN-105-AL-003,1,Front Range Supply Line alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2017-03-12,SYN-105,20000,30000,files/SYN-105-AL-003_R1.txt
+SYN-105-AL-003,2,Front Range Supply Line alignment sheet STA 200+00 to 300+00,alignment_sheet,IFC,2017-09-26,SYN-105,20000,30000,files/SYN-105-AL-003_R2.txt
+SYN-105-AL-004,A,Front Range Supply Line alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2018-07-26,SYN-105,30000,40000,files/SYN-105-AL-004_RA.txt
+SYN-105-AL-004,0,Front Range Supply Line alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2019-05-28,SYN-105,30000,40000,files/SYN-105-AL-004_R0.txt
+SYN-105-AL-004,1,Front Range Supply Line alignment sheet STA 300+00 to 400+00,alignment_sheet,IFC,2020-04-15,SYN-105,30000,40000,files/SYN-105-AL-004_R1.txt
+SYN-105-AL-005,A,Front Range Supply Line alignment sheet STA 400+00 to 500+00,alignment_sheet,Superseded,2019-06-28,SYN-105,40000,50000,files/SYN-105-AL-005_RA.txt
+SYN-105-AL-005,0,Front Range Supply Line alignment sheet STA 400+00 to 500+00,alignment_sheet,Superseded,2020-01-06,SYN-105,40000,50000,files/SYN-105-AL-005_R0.txt
+SYN-105-AL-005,1,Front Range Supply Line alignment sheet STA 400+00 to 500+00,alignment_sheet,As-Built,2021-03-13,SYN-105,40000,50000,files/SYN-105-AL-005_R1.txt
+SYN-105-AL-006,A,Front Range Supply Line alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2017-07-27,SYN-105,50000,60000,files/SYN-105-AL-006_RA.txt
+SYN-105-AL-006,0,Front Range Supply Line alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2018-07-17,SYN-105,50000,60000,files/SYN-105-AL-006_R0.txt
+SYN-105-AL-006,1,Front Range Supply Line alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2019-07-06,SYN-105,50000,60000,files/SYN-105-AL-006_R1.txt
+SYN-105-AL-006,2,Front Range Supply Line alignment sheet STA 500+00 to 600+00,alignment_sheet,As-Built,2020-09-22,SYN-105,50000,60000,files/SYN-105-AL-006_R2.txt
+SYN-105-AL-007,A,Front Range Supply Line alignment sheet STA 600+00 to 700+00,alignment_sheet,Superseded,2016-04-20,SYN-105,60000,70000,files/SYN-105-AL-007_RA.txt
+SYN-105-AL-007,0,Front Range Supply Line alignment sheet STA 600+00 to 700+00,alignment_sheet,Superseded,2016-07-25,SYN-105,60000,70000,files/SYN-105-AL-007_R0.txt
+SYN-105-AL-007,1,Front Range Supply Line alignment sheet STA 600+00 to 700+00,alignment_sheet,Superseded,2017-08-19,SYN-105,60000,70000,files/SYN-105-AL-007_R1.txt
+SYN-105-AL-007,2,Front Range Supply Line alignment sheet STA 600+00 to 700+00,alignment_sheet,As-Built,2018-03-26,SYN-105,60000,70000,files/SYN-105-AL-007_R2.txt
+SYN-105-AL-008,A,Front Range Supply Line alignment sheet STA 700+00 to 800+00,alignment_sheet,Superseded,2019-12-07,SYN-105,70000,80000,files/SYN-105-AL-008_RA.txt
+SYN-105-AL-008,0,Front Range Supply Line alignment sheet STA 700+00 to 800+00,alignment_sheet,Superseded,2020-08-21,SYN-105,70000,80000,files/SYN-105-AL-008_R0.txt
+SYN-105-AL-008,1,Front Range Supply Line alignment sheet STA 700+00 to 800+00,alignment_sheet,Superseded,2021-08-21,SYN-105,70000,80000,files/SYN-105-AL-008_R1.txt
+SYN-105-AL-008,2,Front Range Supply Line alignment sheet STA 700+00 to 800+00,alignment_sheet,As-Built,2022-01-06,SYN-105,70000,80000,files/SYN-105-AL-008_R2.txt
+SYN-105-AL-009,A,Front Range Supply Line alignment sheet STA 800+00 to 900+00,alignment_sheet,Superseded,2017-04-23,SYN-105,80000,90000,files/SYN-105-AL-009_RA.txt
+SYN-105-AL-009,0,Front Range Supply Line alignment sheet STA 800+00 to 900+00,alignment_sheet,IFC,2017-11-14,SYN-105,80000,90000,files/SYN-105-AL-009_R0.txt
+SYN-105-AL-010,A,Front Range Supply Line alignment sheet STA 900+00 to 1000+00,alignment_sheet,Superseded,2017-09-24,SYN-105,90000,100000,files/SYN-105-AL-010_RA.txt
+SYN-105-AL-010,0,Front Range Supply Line alignment sheet STA 900+00 to 1000+00,alignment_sheet,Superseded,2018-04-15,SYN-105,90000,100000,files/SYN-105-AL-010_R0.txt
+SYN-105-AL-010,1,Front Range Supply Line alignment sheet STA 900+00 to 1000+00,alignment_sheet,Superseded,2019-05-03,SYN-105,90000,100000,files/SYN-105-AL-010_R1.txt
+SYN-105-AL-010,2,Front Range Supply Line alignment sheet STA 900+00 to 1000+00,alignment_sheet,As-Built,2019-12-23,SYN-105,90000,100000,files/SYN-105-AL-010_R2.txt
+SYN-105-AL-011,A,Front Range Supply Line alignment sheet STA 1000+00 to 1014+00,alignment_sheet,Superseded,2017-01-06,SYN-105,100000,101400,files/SYN-105-AL-011_RA.txt
+SYN-105-AL-011,0,Front Range Supply Line alignment sheet STA 1000+00 to 1014+00,alignment_sheet,As-Built,2017-04-17,SYN-105,100000,101400,files/SYN-105-AL-011_R0.txt
+SYN-105-VD-01,A,SYN-105-V01 mainline block valve installation detail,valve_detail,Superseded,2018-01-27,SYN-105,0,0,files/SYN-105-VD-01_RA.txt
+SYN-105-VD-01,0,SYN-105-V01 mainline block valve installation detail,valve_detail,Superseded,2018-05-14,SYN-105,0,0,files/SYN-105-VD-01_R0.txt
+SYN-105-VD-01,1,SYN-105-V01 mainline block valve installation detail,valve_detail,As-Built,2018-07-24,SYN-105,0,0,files/SYN-105-VD-01_R1.txt
+SYN-105-VD-02,A,SYN-105-V02 mainline block valve installation detail,valve_detail,Superseded,2018-08-25,SYN-105,16975,16975,files/SYN-105-VD-02_RA.txt
+SYN-105-VD-02,0,SYN-105-V02 mainline block valve installation detail,valve_detail,As-Built,2019-02-03,SYN-105,16975,16975,files/SYN-105-VD-02_R0.txt
+SYN-105-VD-03,A,SYN-105-V03 mainline block valve installation detail,valve_detail,Superseded,2017-08-02,SYN-105,30140,30140,files/SYN-105-VD-03_RA.txt
+SYN-105-VD-03,0,SYN-105-V03 mainline block valve installation detail,valve_detail,As-Built,2018-08-28,SYN-105,30140,30140,files/SYN-105-VD-03_R0.txt
+SYN-105-VD-04,A,SYN-105-V04 mainline block valve installation detail,valve_detail,Superseded,2015-10-12,SYN-105,45574,45574,files/SYN-105-VD-04_RA.txt
+SYN-105-VD-04,0,SYN-105-V04 mainline block valve installation detail,valve_detail,Superseded,2016-01-01,SYN-105,45574,45574,files/SYN-105-VD-04_R0.txt
+SYN-105-VD-04,1,SYN-105-V04 mainline block valve installation detail,valve_detail,As-Built,2016-12-23,SYN-105,45574,45574,files/SYN-105-VD-04_R1.txt
+SYN-105-VD-05,A,SYN-105-V05 mainline block valve installation detail,valve_detail,Superseded,2018-06-11,SYN-105,62999,62999,files/SYN-105-VD-05_RA.txt
+SYN-105-VD-05,0,SYN-105-V05 mainline block valve installation detail,valve_detail,Superseded,2019-04-26,SYN-105,62999,62999,files/SYN-105-VD-05_R0.txt
+SYN-105-VD-05,1,SYN-105-V05 mainline block valve installation detail,valve_detail,IFC,2020-03-26,SYN-105,62999,62999,files/SYN-105-VD-05_R1.txt
+SYN-105-VD-06,A,SYN-105-V06 mainline block valve installation detail,valve_detail,Superseded,2014-01-14,SYN-105,82458,82458,files/SYN-105-VD-06_RA.txt
+SYN-105-VD-06,0,SYN-105-V06 mainline block valve installation detail,valve_detail,Superseded,2014-09-23,SYN-105,82458,82458,files/SYN-105-VD-06_R0.txt
+SYN-105-VD-06,1,SYN-105-V06 mainline block valve installation detail,valve_detail,IFC,2015-05-19,SYN-105,82458,82458,files/SYN-105-VD-06_R1.txt
+SYN-105-VD-07,A,SYN-105-V07 mainline block valve installation detail,valve_detail,Superseded,2014-09-18,SYN-105,97857,97857,files/SYN-105-VD-07_RA.txt
+SYN-105-VD-07,0,SYN-105-V07 mainline block valve installation detail,valve_detail,IFC,2014-12-12,SYN-105,97857,97857,files/SYN-105-VD-07_R0.txt
+SYN-105-VD-08,A,SYN-105-V08 mainline block valve installation detail,valve_detail,Superseded,2015-10-07,SYN-105,101400,101400,files/SYN-105-VD-08_RA.txt
+SYN-105-VD-08,0,SYN-105-V08 mainline block valve installation detail,valve_detail,Superseded,2016-05-19,SYN-105,101400,101400,files/SYN-105-VD-08_R0.txt
+SYN-105-VD-08,1,SYN-105-V08 mainline block valve installation detail,valve_detail,As-Built,2017-05-28,SYN-105,101400,101400,files/SYN-105-VD-08_R1.txt
+SYN-105-XD-01,A,Water Crossing at STA 225+77,crossing_detail,Superseded,2014-05-10,SYN-105,22577,22577,files/SYN-105-XD-01_RA.txt
+SYN-105-XD-01,0,Water Crossing at STA 225+77,crossing_detail,Superseded,2015-05-19,SYN-105,22577,22577,files/SYN-105-XD-01_R0.txt
+SYN-105-XD-01,1,Water Crossing at STA 225+77,crossing_detail,IFC,2016-07-27,SYN-105,22577,22577,files/SYN-105-XD-01_R1.txt
+SYN-105-XD-02,A,Foreign Line Crossing at STA 180+68,crossing_detail,Superseded,2017-09-05,SYN-105,18068,18068,files/SYN-105-XD-02_RA.txt
+SYN-105-XD-02,0,Foreign Line Crossing at STA 180+68,crossing_detail,Superseded,2018-08-07,SYN-105,18068,18068,files/SYN-105-XD-02_R0.txt
+SYN-105-XD-02,1,Foreign Line Crossing at STA 180+68,crossing_detail,IFC,2019-06-03,SYN-105,18068,18068,files/SYN-105-XD-02_R1.txt
+SYN-106-AL-001,A,Ohio Valley Loop alignment sheet STA 0+00 to 100+00,alignment_sheet,Superseded,2014-03-22,SYN-106,0,10000,files/SYN-106-AL-001_RA.txt
+SYN-106-AL-001,0,Ohio Valley Loop alignment sheet STA 0+00 to 100+00,alignment_sheet,As-Built,2014-05-12,SYN-106,0,10000,files/SYN-106-AL-001_R0.txt
+SYN-106-AL-002,A,Ohio Valley Loop alignment sheet STA 100+00 to 200+00,alignment_sheet,Superseded,2019-03-26,SYN-106,10000,20000,files/SYN-106-AL-002_RA.txt
+SYN-106-AL-002,0,Ohio Valley Loop alignment sheet STA 100+00 to 200+00,alignment_sheet,As-Built,2019-12-10,SYN-106,10000,20000,files/SYN-106-AL-002_R0.txt
+SYN-106-AL-003,A,Ohio Valley Loop alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2014-09-06,SYN-106,20000,30000,files/SYN-106-AL-003_RA.txt
+SYN-106-AL-003,0,Ohio Valley Loop alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2015-11-25,SYN-106,20000,30000,files/SYN-106-AL-003_R0.txt
+SYN-106-AL-003,1,Ohio Valley Loop alignment sheet STA 200+00 to 300+00,alignment_sheet,Superseded,2016-04-26,SYN-106,20000,30000,files/SYN-106-AL-003_R1.txt
+SYN-106-AL-003,2,Ohio Valley Loop alignment sheet STA 200+00 to 300+00,alignment_sheet,As-Built,2017-05-26,SYN-106,20000,30000,files/SYN-106-AL-003_R2.txt
+SYN-106-AL-004,A,Ohio Valley Loop alignment sheet STA 300+00 to 400+00,alignment_sheet,Superseded,2017-11-05,SYN-106,30000,40000,files/SYN-106-AL-004_RA.txt
+SYN-106-AL-004,0,Ohio Valley Loop alignment sheet STA 300+00 to 400+00,alignment_sheet,IFC,2018-06-24,SYN-106,30000,40000,files/SYN-106-AL-004_R0.txt
+SYN-106-AL-005,A,Ohio Valley Loop alignment sheet STA 400+00 to 500+00,alignment_sheet,Superseded,2014-04-15,SYN-106,40000,50000,files/SYN-106-AL-005_RA.txt
+SYN-106-AL-005,0,Ohio Valley Loop alignment sheet STA 400+00 to 500+00,alignment_sheet,Superseded,2015-03-09,SYN-106,40000,50000,files/SYN-106-AL-005_R0.txt
+SYN-106-AL-005,1,Ohio Valley Loop alignment sheet STA 400+00 to 500+00,alignment_sheet,As-Built,2016-04-12,SYN-106,40000,50000,files/SYN-106-AL-005_R1.txt
+SYN-106-AL-006,A,Ohio Valley Loop alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2017-03-18,SYN-106,50000,60000,files/SYN-106-AL-006_RA.txt
+SYN-106-AL-006,0,Ohio Valley Loop alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2017-11-16,SYN-106,50000,60000,files/SYN-106-AL-006_R0.txt
+SYN-106-AL-006,1,Ohio Valley Loop alignment sheet STA 500+00 to 600+00,alignment_sheet,Superseded,2018-03-26,SYN-106,50000,60000,files/SYN-106-AL-006_R1.txt
+SYN-106-AL-006,2,Ohio Valley Loop alignment sheet STA 500+00 to 600+00,alignment_sheet,As-Built,2019-03-16,SYN-106,50000,60000,files/SYN-106-AL-006_R2.txt
+SYN-106-AL-007,A,Ohio Valley Loop alignment sheet STA 600+00 to 676+00,alignment_sheet,Superseded,2016-05-04,SYN-106,60000,67600,files/SYN-106-AL-007_RA.txt
+SYN-106-AL-007,0,Ohio Valley Loop alignment sheet STA 600+00 to 676+00,alignment_sheet,As-Built,2016-08-06,SYN-106,60000,67600,files/SYN-106-AL-007_R0.txt
+SYN-106-VD-01,A,SYN-106-V01 mainline block valve installation detail,valve_detail,Superseded,2016-10-23,SYN-106,0,0,files/SYN-106-VD-01_RA.txt
+SYN-106-VD-01,0,SYN-106-V01 mainline block valve installation detail,valve_detail,Superseded,2017-12-04,SYN-106,0,0,files/SYN-106-VD-01_R0.txt
+SYN-106-VD-01,1,SYN-106-V01 mainline block valve installation detail,valve_detail,As-Built,2018-06-18,SYN-106,0,0,files/SYN-106-VD-01_R1.txt
+SYN-106-VD-02,A,SYN-106-V02 mainline block valve installation detail,valve_detail,Superseded,2017-10-16,SYN-106,17683,17683,files/SYN-106-VD-02_RA.txt
+SYN-106-VD-02,0,SYN-106-V02 mainline block valve installation detail,valve_detail,Superseded,2017-12-07,SYN-106,17683,17683,files/SYN-106-VD-02_R0.txt
+SYN-106-VD-02,1,SYN-106-V02 mainline block valve installation detail,valve_detail,As-Built,2018-12-06,SYN-106,17683,17683,files/SYN-106-VD-02_R1.txt
+SYN-106-VD-03,A,SYN-106-V03 mainline block valve installation detail,valve_detail,Superseded,2016-12-01,SYN-106,56194,56194,files/SYN-106-VD-03_RA.txt
+SYN-106-VD-03,0,SYN-106-V03 mainline block valve installation detail,valve_detail,Superseded,2017-02-26,SYN-106,56194,56194,files/SYN-106-VD-03_R0.txt
+SYN-106-VD-03,1,SYN-106-V03 mainline block valve installation detail,valve_detail,As-Built,2017-07-23,SYN-106,56194,56194,files/SYN-106-VD-03_R1.txt
+SYN-106-VD-04,A,SYN-106-V04 mainline block valve installation detail,valve_detail,Superseded,2016-02-09,SYN-106,67600,67600,files/SYN-106-VD-04_RA.txt
+SYN-106-VD-04,0,SYN-106-V04 mainline block valve installation detail,valve_detail,Superseded,2016-04-25,SYN-106,67600,67600,files/SYN-106-VD-04_R0.txt
+SYN-106-VD-04,1,SYN-106-V04 mainline block valve installation detail,valve_detail,As-Built,2017-04-12,SYN-106,67600,67600,files/SYN-106-VD-04_R1.txt
+SYN-106-XD-01,A,Foreign Line Crossing at STA 395+86,crossing_detail,Superseded,2019-04-13,SYN-106,39586,39586,files/SYN-106-XD-01_RA.txt
+SYN-106-XD-01,0,Foreign Line Crossing at STA 395+86,crossing_detail,Superseded,2020-01-26,SYN-106,39586,39586,files/SYN-106-XD-01_R0.txt
+SYN-106-XD-01,1,Foreign Line Crossing at STA 395+86,crossing_detail,As-Built,2020-11-10,SYN-106,39586,39586,files/SYN-106-XD-01_R1.txt
+SYN-106-XD-02,A,Water Crossing at STA 673+64,crossing_detail,Superseded,2014-07-08,SYN-106,67364,67364,files/SYN-106-XD-02_RA.txt
+SYN-106-XD-02,0,Water Crossing at STA 673+64,crossing_detail,Superseded,2014-09-06,SYN-106,67364,67364,files/SYN-106-XD-02_R0.txt
+SYN-106-XD-02,1,Water Crossing at STA 673+64,crossing_detail,As-Built,2015-04-04,SYN-106,67364,67364,files/SYN-106-XD-02_R1.txt
+SYN-106-XD-03,A,Water Crossing at STA 155+41,crossing_detail,Superseded,2016-09-22,SYN-106,15541,15541,files/SYN-106-XD-03_RA.txt
+SYN-106-XD-03,0,Water Crossing at STA 155+41,crossing_detail,Superseded,2016-12-23,SYN-106,15541,15541,files/SYN-106-XD-03_R0.txt
+SYN-106-XD-03,1,Water Crossing at STA 155+41,crossing_detail,IFC,2018-02-09,SYN-106,15541,15541,files/SYN-106-XD-03_R1.txt
+SYN-106-XD-04,A,Foreign Line Crossing at STA 605+44,crossing_detail,Superseded,2015-12-25,SYN-106,60544,60544,files/SYN-106-XD-04_RA.txt
+SYN-106-XD-04,0,Foreign Line Crossing at STA 605+44,crossing_detail,As-Built,2016-03-18,SYN-106,60544,60544,files/SYN-106-XD-04_R0.txt

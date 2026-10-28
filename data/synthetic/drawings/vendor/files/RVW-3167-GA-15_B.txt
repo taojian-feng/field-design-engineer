@@ -1,0 +1,14 @@
+RIDGELINE VALVE WORKS
+TITLE: Ridgeline Valve Works ball valve general arrangement
+DRAWING NO: RVW-3167-GA-15
+REV: B
+DATE: 2019-01-13
+STATUS: Approved as Noted
+VENDOR: Ridgeline Valve Works
+PO: 4500380
+TAG: SYN-105-V01
+-- DATA --
+valve: part_number=RVW-RB123-41759; model=RB-300; nps=12; ansi_class=300; rating_psig=740; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2018-06-12 | Submitted for review
+B | 2019-01-13 | Submitted for review

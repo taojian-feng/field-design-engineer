@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Ohio Valley Loop alignment sheet STA 300+00 to 400+00
+DRAWING NO: SYN-106-AL-004
+REV: A
+DATE: 2017-11-05
+STATUS: Superseded
+PIPELINE: SYN-106
+STATIONS: 30000-40000
+-- DATA --
+SYN-106-S03: begin_station_ft=17000.0; end_station_ft=31800.0; nps=8; wall_in=0.188; grade=X60; seam_type=erw; coating=3LPE
+SYN-106-S04: begin_station_ft=31800.0; end_station_ft=34600.0; nps=8; wall_in=0.312; grade=X52; seam_type=dsaw; coating=Polyethylene tape
+SYN-106-S05: begin_station_ft=34600.0; end_station_ft=47900.0; nps=8; wall_in=0.25; grade=X52; seam_type=dsaw; coating=FBE
+-- REVISION BLOCK --
+A | 2017-11-05 | Issued for review
