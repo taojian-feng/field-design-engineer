@@ -13,6 +13,10 @@ somewhere sensible on a map.
 | `walkdowns/<line>_walkdown.csv` | ROW walkdown: depth of cover every 500 ft, CP readings at test stations, rock, encroachments, exposed pipe |
 | `projects/PRJ-*_bom_design.csv`, `projects/PRJ-*_asbuilt.csv` | Two replacement projects with a design BOM and an as-built materials list |
 | `geojson/pipelines.geojson`, `point_features.geojson`, `structures.geojson` | The same data for QGIS, ArcGIS or geojson.io |
+| `drawings/edms/` | Document control: `register.csv` (one row per revision) and the drawing files: alignment sheets every 10,000 ft, a valve detail per valve, a crossing detail per crossing |
+| `drawings/vendor/` | Vendor submittal log and vendor GA drawings for every valve, with review status (Approved, Approved as Noted, Resubmit, Rejected) |
+| `drawings/gis/drawing_links.geojson` | GIS features (segments, valves, crossings) with the drawing number and revision they link to |
+| `drawings/shared_drive/` | Uncontrolled copies with messy file names: current field copies, stale old revisions and planted bad copies |
 | `answer_key.json` | Every seeded problem, so you can score what the agent finds |
 
 ## How it is built
@@ -36,6 +40,13 @@ somewhere sensible on a map.
 | `class_location_increase` | New development has raised the class since the last study (192.611) | `class_location_study` |
 | `low_cp`, `shallow_cover`, `exposed_pipe`, `encroachment` | Walkdown findings | `review_survey` |
 | `bom_discrepancy` | Quantity variance, lower-grade substitution, missing MTR, item not installed, unplanned item | `reconcile_bom` |
+
+Drawing discrepancies are listed under `drawing_discrepancies`, found by `verify_drawings`:
+`superseded_reference`, `broken_reference` (GIS links), `uncontrolled_revision`, `conflicting_copy`,
+`title_block_mismatch`, `stale_copy` (shared drive vs document control), `revision_gap` (EDMS),
+`vendor_rating_mismatch`, `part_number_mismatch`, `vendor_not_approved` (design vs vendor) and `record_mismatch`
+(drawing vs asset tables). The controlled drawings otherwise agree with the asset tables, so the checks should
+flag exactly these. Drawings use their own random stream, so adding them did not change the asset tables.
 
 To create a different system, change the seed. `tests/test_synth.py` checks that the tools find every seeded
 problem for more than one seed.

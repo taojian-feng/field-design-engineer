@@ -6,7 +6,8 @@ import json
 from pathlib import Path
 from typing import Callable
 
-from . import calcs, field
+from . import calcs, drawings, field
+from .drawings import DrawingIndex
 from .pods_store import PodsStore
 
 NUM = {"type": "number"}
@@ -131,6 +132,49 @@ TOOLS: list[dict] = [
         }, "required": ["table", "record", "reference"]},
     },
     {
+        "name": "search_drawings",
+        "description": "Search every drawing source at once (document control, vendor submittals, GIS links, shared drives) by document number (any formatting), keywords, pipeline, station range, drawing type or feature/tag id. Returns each drawing's current controlled revision, where to open it, and every other revision or copy found with its state (current, superseded, conflicts_with_current, newer_than_controlled).",
+        "input_schema": {"type": "object", "properties": {
+            "text": {"type": "string", "description": "Document number or keywords, e.g. 'SYN101-VD-2' or 'HDD crossing'"},
+            "pipeline_id": {"type": "string"}, "begin_station_ft": NUM, "end_station_ft": NUM,
+            "doc_type": {"type": "string", "description": "alignment_sheet, valve_detail, crossing_detail, vendor_ga"},
+            "feature_id": {"type": "string", "description": "Asset or tag id, e.g. a valve feature_id"},
+            "limit": {"type": "integer"},
+        }},
+    },
+    {
+        "name": "get_drawing",
+        "description": "Full record for one drawing: revision history, current revision's data (segments, valve data, references), every copy across sources, and what cites it. Optionally pull a specific revision's data.",
+        "input_schema": {"type": "object", "properties": {
+            "doc_number": {"type": "string"}, "rev": {"type": "string"},
+        }, "required": ["doc_number"]},
+    },
+    {
+        "name": "compare_drawings",
+        "description": "Field-by-field diff of two drawings or two revisions: rev vs rev of one drawing, design vs vendor drawing, design vs as-built, or a shared-drive copy (source_b='shared_drive') vs the controlled revision. Defaults to the current revision on each side.",
+        "input_schema": {"type": "object", "properties": {
+            "doc_a": {"type": "string"}, "rev_a": {"type": "string"},
+            "doc_b": {"type": "string", "description": "Defaults to doc_a"}, "rev_b": {"type": "string"},
+            "source_b": {"type": "string", "description": "edms, vendor, shared_drive"},
+        }, "required": ["doc_a"]},
+    },
+    {
+        "name": "verify_drawings",
+        "description": "Cross-check drawings for a pipeline, station range or one document: superseded revisions still cited (GIS), uncontrolled or conflicting copies, title block vs register mismatches, revision gaps, design vs vendor drawing (pressure class, part number, approval status), and current drawings vs asset records. Returns findings with severity and the recommended action.",
+        "input_schema": {"type": "object", "properties": {
+            "pipeline_id": {"type": "string"}, "doc_number": {"type": "string"},
+            "begin_station_ft": NUM, "end_station_ft": NUM,
+            "include_info": {"type": "boolean", "description": "Include stale-copy housekeeping findings (default true)"},
+        }},
+    },
+    {
+        "name": "drawing_package",
+        "description": "Assemble the verified drawing set for a station range: current revision and location of every drawing, the vendor drawings they rely on with submittal status, blocking issues, and the stray copies the crew should not use.",
+        "input_schema": {"type": "object", "properties": {
+            "pipeline_id": {"type": "string"}, "begin_station_ft": NUM, "end_station_ft": NUM,
+        }, "required": ["pipeline_id", "begin_station_ft", "end_station_ft"]},
+    },
+    {
         "name": "save_document",
         "description": "Save a markdown deliverable (report, FCR response, coordination memo, redline notes) to the output folder. Nothing is sent to anyone.",
         "input_schema": {"type": "object", "properties": {
@@ -145,8 +189,9 @@ WRITE_TOOLS = {"update_asset_record"}
 
 class ToolBox:
     def __init__(self, store: PodsStore, output_dir: str | Path = "output",
-                 approve: Callable[[str, dict], bool] | None = None):
+                 approve: Callable[[str, dict], bool] | None = None, drawings: DrawingIndex | None = None):
         self.store = store
+        self.drawings = drawings
         self.output_dir = Path(output_dir)
         self.approve = approve or (lambda name, args: False)
 
@@ -192,6 +237,28 @@ class ToolBox:
 
     def _t_update_asset_record(self, table, record, reference):
         return self.store.upsert(table, record, reference)
+
+    # drawings
+    def _index(self) -> DrawingIndex:
+        if self.drawings is None:
+            raise ValueError("No drawing sources are configured. Start the CLI with --drawings <folder>.")
+        return self.drawings
+
+    def _t_search_drawings(self, **kw):
+        hits = self._index().search(**kw)
+        return {"count": len(hits), "drawings": hits}
+
+    def _t_get_drawing(self, doc_number, rev=None):
+        return self._index().get(doc_number, rev)
+
+    def _t_compare_drawings(self, **kw):
+        return drawings.compare(self._index(), **kw)
+
+    def _t_verify_drawings(self, **kw):
+        return drawings.verify(self._index(), **kw)
+
+    def _t_drawing_package(self, **kw):
+        return drawings.field_package(self._index(), **kw)
 
     def _t_save_document(self, filename, content):
         safe = Path(filename).name

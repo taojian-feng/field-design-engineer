@@ -1,0 +1,15 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-106-V01 mainline block valve installation detail
+DRAWING NO: SYN-106-VD-01
+REV: 1
+DATE: 2018-06-18
+STATUS: As-Built
+PIPELINE: SYN-106
+STATIONS: 0-0
+REFERENCES: PVC-1530-GA-14 REV A
+-- DATA --
+valve: tag=SYN-106-V01; station_ft=0; nps=8; ansi_class=900; rating_psig=2220; part_number=PVC-FB89-76569; end_connection=RF
+-- REVISION BLOCK --
+A | 2016-10-23 | Issued for review
+0 | 2017-12-04 | Issued for construction
+1 | 2018-06-18 | As-built per field survey

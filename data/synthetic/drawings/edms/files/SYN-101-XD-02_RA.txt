@@ -1,0 +1,12 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Foreign Line Crossing at STA 7+70
+DRAWING NO: SYN-101-XD-02
+REV: A
+DATE: 2014-09-07
+STATUS: Superseded
+PIPELINE: SYN-101
+STATIONS: 770-770
+-- DATA --
+crossing: tag=SYN-101-X02; station_ft=730; crossing_type=foreign_line_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2014-09-07 | Issued for review

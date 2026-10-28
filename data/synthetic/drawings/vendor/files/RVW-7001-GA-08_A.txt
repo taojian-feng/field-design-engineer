@@ -1,0 +1,13 @@
+RIDGELINE VALVE WORKS
+TITLE: Ridgeline Valve Works ball valve general arrangement
+DRAWING NO: RVW-7001-GA-08
+REV: A
+DATE: 2016-12-15
+STATUS: Approved
+VENDOR: Ridgeline Valve Works
+PO: 4500532
+TAG: SYN-106-V03
+-- DATA --
+valve: part_number=RVW-RB89-74881; model=RB-900; nps=8; ansi_class=900; rating_psig=2220; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2016-12-15 | Submitted for review

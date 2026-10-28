@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-106-V03 mainline block valve installation detail
+DRAWING NO: SYN-106-VD-03
+REV: 0
+DATE: 2017-02-26
+STATUS: Superseded
+PIPELINE: SYN-106
+STATIONS: 56194-56194
+REFERENCES: RVW-7001-GA-08 REV A
+-- DATA --
+valve: tag=SYN-106-V03; station_ft=56194; nps=8; ansi_class=900; rating_psig=2220; part_number=RVW-RB89-74881; end_connection=RF
+-- REVISION BLOCK --
+A | 2016-12-01 | Issued for review
+0 | 2017-02-26 | Issued for construction

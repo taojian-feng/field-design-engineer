@@ -1,0 +1,13 @@
+PECOS VALVE CO.
+TITLE: Pecos Valve Co. ball valve general arrangement
+DRAWING NO: PVC-7094-GA-08
+REV: A
+DATE: 2019-06-05
+STATUS: Resubmit
+VENDOR: Pecos Valve Co.
+PO: 4500187
+TAG: SYN-101-V03
+-- DATA --
+valve: part_number=PVC-FB106-32894; model=FB-600; nps=10; ansi_class=600; rating_psig=1480; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2019-06-05 | Submitted for review

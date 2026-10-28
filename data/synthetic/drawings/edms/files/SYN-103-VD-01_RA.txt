@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-103-V01 mainline block valve installation detail
+DRAWING NO: SYN-103-VD-01
+REV: A
+DATE: 2014-04-02
+STATUS: Superseded
+PIPELINE: SYN-103
+STATIONS: 0-0
+REFERENCES: BFC-4084-GA-13 REV B
+-- DATA --
+valve: tag=SYN-103-V01; station_ft=60; nps=12; ansi_class=900; rating_psig=2220; part_number=BFC-TB129-48735; end_connection=RF
+-- REVISION BLOCK --
+A | 2014-04-02 | Issued for review

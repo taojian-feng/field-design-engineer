@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-102-V02 mainline block valve installation detail
+DRAWING NO: SYN-102-VD-02
+REV: A
+DATE: 2017-08-18
+STATUS: Superseded
+PIPELINE: SYN-102
+STATIONS: 24100-24100
+REFERENCES: PVC-5683-GA-11 REV B
+-- DATA --
+valve: tag=SYN-102-V02; station_ft=24100; nps=20; ansi_class=600; rating_psig=1480; part_number=PVC-FB206-28093; end_connection=RF
+-- REVISION BLOCK --
+A | 2017-08-18 | Issued for review

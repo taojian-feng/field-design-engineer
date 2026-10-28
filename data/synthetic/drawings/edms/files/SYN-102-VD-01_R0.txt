@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-102-V01 mainline block valve installation detail
+DRAWING NO: SYN-102-VD-01
+REV: 0
+DATE: 2016-11-28
+STATUS: Superseded
+PIPELINE: SYN-102
+STATIONS: 0-0
+REFERENCES: RVW-1400-GA-15 REV A
+-- DATA --
+valve: tag=SYN-102-V01; station_ft=0; nps=20; ansi_class=600; rating_psig=1480; part_number=RVW-RB206-72094; end_connection=RF
+-- REVISION BLOCK --
+A | 2016-03-02 | Issued for review
+0 | 2016-11-28 | Issued for construction

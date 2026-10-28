@@ -1,0 +1,14 @@
+BLUESTEM FLOW CONTROLS
+TITLE: Bluestem Flow Controls ball valve general arrangement
+DRAWING NO: BFC-6689-GA-16
+REV: B
+DATE: 2018-01-03
+STATUS: Approved as Noted
+VENDOR: Bluestem Flow Controls
+PO: 4500133
+TAG: SYN-101-V01
+-- DATA --
+valve: part_number=BFC-TB106-22301; model=TB-600; nps=10; ansi_class=600; rating_psig=1480; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2016-11-25 | Submitted for review
+B | 2018-01-03 | Submitted for review

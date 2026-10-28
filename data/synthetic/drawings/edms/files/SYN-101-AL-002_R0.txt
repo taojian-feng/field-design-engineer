@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Coastal Prairie Lateral alignment sheet STA 100+00 to 200+00
+DRAWING NO: SYN-101-AL-002
+REV: 0
+DATE: 2019-05-08
+STATUS: As-Built
+PIPELINE: SYN-101
+STATIONS: 10000-20000
+-- DATA --
+SYN-101-S03: begin_station_ft=8800.0; end_station_ft=23500.0; nps=10; wall_in=0.281; grade=X52; seam_type=erw; coating=Coal tar enamel
+-- REVISION BLOCK --
+A | 2019-03-25 | Issued for review
+0 | 2019-05-08 | Issued for construction

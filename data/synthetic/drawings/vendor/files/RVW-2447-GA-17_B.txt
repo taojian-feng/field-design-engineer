@@ -1,0 +1,14 @@
+RIDGELINE VALVE WORKS
+TITLE: Ridgeline Valve Works ball valve general arrangement
+DRAWING NO: RVW-2447-GA-17
+REV: B
+DATE: 2016-11-14
+STATUS: Approved as Noted
+VENDOR: Ridgeline Valve Works
+PO: 4500482
+TAG: SYN-105-V08
+-- DATA --
+valve: part_number=RVW-RB123-69141; model=RB-300; nps=12; ansi_class=300; rating_psig=740; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2016-06-22 | Submitted for review
+B | 2016-11-14 | Submitted for review

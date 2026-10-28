@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-103-V03 mainline block valve installation detail
+DRAWING NO: SYN-103-VD-03
+REV: A
+DATE: 2015-12-23
+STATUS: Superseded
+PIPELINE: SYN-103
+STATIONS: 31213-31213
+REFERENCES: RVW-8793-GA-19 REV A
+-- DATA --
+valve: tag=SYN-103-V03; station_ft=31173; nps=12; ansi_class=900; rating_psig=2220; part_number=RVW-RB129-39957; end_connection=RF
+-- REVISION BLOCK --
+A | 2015-12-23 | Issued for review

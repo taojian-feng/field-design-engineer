@@ -1,0 +1,12 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Road Crossing at STA 247+46
+DRAWING NO: SYN-103-XD-01
+REV: A
+DATE: 2019-04-01
+STATUS: Superseded
+PIPELINE: SYN-103
+STATIONS: 24746-24746
+-- DATA --
+crossing: tag=SYN-103-X01; station_ft=24771; crossing_type=road_crossing; method=HDD
+-- REVISION BLOCK --
+A | 2019-04-01 | Issued for review

@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-105-V05 mainline block valve installation detail
+DRAWING NO: SYN-105-VD-05
+REV: 0
+DATE: 2019-04-26
+STATUS: Superseded
+PIPELINE: SYN-105
+STATIONS: 62999-62999
+REFERENCES: BFC-2076-GA-02 REV B
+-- DATA --
+valve: tag=SYN-105-V05; station_ft=63024; nps=12; ansi_class=300; rating_psig=740; part_number=BFC-TB123-95549; end_connection=RF
+-- REVISION BLOCK --
+A | 2018-06-11 | Issued for review
+0 | 2019-04-26 | Issued for construction

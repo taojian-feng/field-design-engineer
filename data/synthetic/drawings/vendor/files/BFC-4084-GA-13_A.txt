@@ -1,0 +1,13 @@
+BLUESTEM FLOW CONTROLS
+TITLE: Bluestem Flow Controls ball valve general arrangement
+DRAWING NO: BFC-4084-GA-13
+REV: A
+DATE: 2014-04-17
+STATUS: Resubmit
+VENDOR: Bluestem Flow Controls
+PO: 4500244
+TAG: SYN-103-V01
+-- DATA --
+valve: part_number=BFC-TB129-48735; model=TB-900; nps=12; ansi_class=900; rating_psig=2220; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2014-04-17 | Submitted for review

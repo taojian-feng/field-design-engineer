@@ -1,0 +1,13 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Road Crossing at STA 401+22
+DRAWING NO: SYN-101-XD-01
+REV: 0
+DATE: 2019-09-19
+STATUS: As-Built
+PIPELINE: SYN-101
+STATIONS: 40122-40122
+-- DATA --
+crossing: tag=SYN-101-X01; station_ft=40122; crossing_type=road_crossing; method=open cut
+-- REVISION BLOCK --
+A | 2018-10-04 | Issued for review
+0 | 2019-09-19 | Issued for construction

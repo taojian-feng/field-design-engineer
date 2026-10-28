@@ -1,0 +1,1541 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S01",
+    "pipeline_id": "SYN-101",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-001",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S02",
+    "pipeline_id": "SYN-101",
+    "station_ft": 5300.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-001",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S03",
+    "pipeline_id": "SYN-101",
+    "station_ft": 8800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-001",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S03",
+    "pipeline_id": "SYN-101",
+    "station_ft": 8800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-002",
+    "drawing_rev": "A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S03",
+    "pipeline_id": "SYN-101",
+    "station_ft": 8800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S04",
+    "pipeline_id": "SYN-101",
+    "station_ft": 23500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S05",
+    "pipeline_id": "SYN-101",
+    "station_ft": 29600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S05",
+    "pipeline_id": "SYN-101",
+    "station_ft": 29600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-004",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S05",
+    "pipeline_id": "SYN-101",
+    "station_ft": 29600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-005",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S06",
+    "pipeline_id": "SYN-101",
+    "station_ft": 43000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-005",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S07",
+    "pipeline_id": "SYN-101",
+    "station_ft": 47700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-005",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-101-S07",
+    "pipeline_id": "SYN-101",
+    "station_ft": 47700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-101-AL-006",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.62,
+     29.62
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-V01",
+    "pipeline_id": "SYN-101",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-101-VD-01",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.543656,
+     29.632294
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-V02",
+    "pipeline_id": "SYN-101",
+    "station_ft": 25344,
+    "feature_type": "valve",
+    "drawing_number": "SYN-101-VD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.467696,
+     29.662766
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-V03",
+    "pipeline_id": "SYN-101",
+    "station_ft": 51900,
+    "feature_type": "valve",
+    "drawing_number": "SYN-101-VD-03",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.501379,
+     29.649076
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-X01",
+    "pipeline_id": "SYN-101",
+    "station_ft": 40122,
+    "feature_type": "road_crossing",
+    "drawing_number": "SYN-101-XD-91",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.617703,
+     29.619302
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-X02",
+    "pipeline_id": "SYN-101",
+    "station_ft": 770,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-101-XD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.597145,
+     29.617108
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-X03",
+    "pipeline_id": "SYN-101",
+    "station_ft": 7396,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-101-XD-03",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.60585,
+     29.617142
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-101-X04",
+    "pipeline_id": "SYN-101",
+    "station_ft": 4621,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-101-XD-04",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-102-S01",
+    "pipeline_id": "SYN-102",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-102-AL-001",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-102-S02",
+    "pipeline_id": "SYN-102",
+    "station_ft": 8000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-102-AL-001",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-102-S02",
+    "pipeline_id": "SYN-102",
+    "station_ft": 8000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-102-AL-002",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-102-S03",
+    "pipeline_id": "SYN-102",
+    "station_ft": 19400.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-102-AL-002",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-102-S03",
+    "pipeline_id": "SYN-102",
+    "station_ft": 19400.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-102-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1,
+     34.05
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-102-V01",
+    "pipeline_id": "SYN-102",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-102-VD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.024019,
+     34.068216
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-102-V02",
+    "pipeline_id": "SYN-102",
+    "station_ft": 24100,
+    "feature_type": "valve",
+    "drawing_number": "SYN-102-VD-02",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.059964,
+     34.061326
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-102-X01",
+    "pipeline_id": "SYN-102",
+    "station_ft": 12885,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-102-XD-01",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.054191,
+     34.062244
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-102-X02",
+    "pipeline_id": "SYN-102",
+    "station_ft": 14658,
+    "feature_type": "road_crossing",
+    "drawing_number": "SYN-102-XD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.091442,
+     34.054303
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-102-X03",
+    "pipeline_id": "SYN-102",
+    "station_ft": 3025,
+    "feature_type": "road_crossing",
+    "drawing_number": "SYN-102-XD-03",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S01",
+    "pipeline_id": "SYN-103",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-001",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S02",
+    "pipeline_id": "SYN-103",
+    "station_ft": 9700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-001",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S02",
+    "pipeline_id": "SYN-103",
+    "station_ft": 9700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-002",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S03",
+    "pipeline_id": "SYN-103",
+    "station_ft": 16100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-002",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S03",
+    "pipeline_id": "SYN-103",
+    "station_ft": 16100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S04",
+    "pipeline_id": "SYN-103",
+    "station_ft": 26500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-103-S04",
+    "pipeline_id": "SYN-103",
+    "station_ft": 26500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-103-AL-004",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.1,
+     40.35
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-V01",
+    "pipeline_id": "SYN-103",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-103-VD-01",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.073301,
+     40.378356
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-V02",
+    "pipeline_id": "SYN-103",
+    "station_ft": 12794,
+    "feature_type": "valve",
+    "drawing_number": "SYN-103-VD-02",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.048351,
+     40.424277
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-V03",
+    "pipeline_id": "SYN-103",
+    "station_ft": 31213,
+    "feature_type": "valve",
+    "drawing_number": "SYN-103-VD-03",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.046904,
+     40.426137
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-V04",
+    "pipeline_id": "SYN-103",
+    "station_ft": 32000,
+    "feature_type": "valve",
+    "drawing_number": "SYN-103-VD-04",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.054883,
+     40.407504
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-X01",
+    "pipeline_id": "SYN-103",
+    "station_ft": 24746,
+    "feature_type": "road_crossing",
+    "drawing_number": "SYN-103-XD-01",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.062811,
+     40.389955
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-103-X02",
+    "pipeline_id": "SYN-103",
+    "station_ft": 17929,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-103-XD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-104-S01",
+    "pipeline_id": "SYN-104",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-104-AL-001",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-104-S02",
+    "pipeline_id": "SYN-104",
+    "station_ft": 6500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-104-AL-001",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-104-S02",
+    "pipeline_id": "SYN-104",
+    "station_ft": 6500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-104-AL-002",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-104-S03",
+    "pipeline_id": "SYN-104",
+    "station_ft": 14100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-104-AL-002",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-104-S03",
+    "pipeline_id": "SYN-104",
+    "station_ft": 14100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-104-AL-003",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.95,
+     30.25
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-104-V01",
+    "pipeline_id": "SYN-104",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-104-VD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.894083,
+     30.247302
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-104-V02",
+    "pipeline_id": "SYN-104",
+    "station_ft": 17798,
+    "feature_type": "valve",
+    "drawing_number": "SYN-104-VD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.877794,
+     30.237984
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-104-V03",
+    "pipeline_id": "SYN-104",
+    "station_ft": 24000,
+    "feature_type": "valve",
+    "drawing_number": "SYN-104-VD-03",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.923962,
+     30.250085
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-104-X01",
+    "pipeline_id": "SYN-104",
+    "station_ft": 8202,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-104-XD-01",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S01",
+    "pipeline_id": "SYN-105",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-001",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S02",
+    "pipeline_id": "SYN-105",
+    "station_ft": 5500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-001",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S02",
+    "pipeline_id": "SYN-105",
+    "station_ft": 5500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-002",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S03",
+    "pipeline_id": "SYN-105",
+    "station_ft": 18600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-002",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S03",
+    "pipeline_id": "SYN-105",
+    "station_ft": 18600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S04",
+    "pipeline_id": "SYN-105",
+    "station_ft": 21300.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S05",
+    "pipeline_id": "SYN-105",
+    "station_ft": 24000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S06",
+    "pipeline_id": "SYN-105",
+    "station_ft": 29100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S06",
+    "pipeline_id": "SYN-105",
+    "station_ft": 29100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-004",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S06",
+    "pipeline_id": "SYN-105",
+    "station_ft": 29100.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-005",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S07",
+    "pipeline_id": "SYN-105",
+    "station_ft": 42800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-005",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S08",
+    "pipeline_id": "SYN-105",
+    "station_ft": 47000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-005",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S08",
+    "pipeline_id": "SYN-105",
+    "station_ft": 47000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-006",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S09",
+    "pipeline_id": "SYN-105",
+    "station_ft": 51400.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-006",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S10",
+    "pipeline_id": "SYN-105",
+    "station_ft": 57200.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-006",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S10",
+    "pipeline_id": "SYN-105",
+    "station_ft": 57200.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-007",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S11",
+    "pipeline_id": "SYN-105",
+    "station_ft": 68700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-007",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S11",
+    "pipeline_id": "SYN-105",
+    "station_ft": 68700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-008",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S12",
+    "pipeline_id": "SYN-105",
+    "station_ft": 78700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-008",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S12",
+    "pipeline_id": "SYN-105",
+    "station_ft": 78700.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-009",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S13",
+    "pipeline_id": "SYN-105",
+    "station_ft": 87800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-009",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S13",
+    "pipeline_id": "SYN-105",
+    "station_ft": 87800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-010",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S14",
+    "pipeline_id": "SYN-105",
+    "station_ft": 90800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-010",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S15",
+    "pipeline_id": "SYN-105",
+    "station_ft": 97900.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-010",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-105-S15",
+    "pipeline_id": "SYN-105",
+    "station_ft": 97900.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-105-AL-011",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.85,
+     39.95
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V01",
+    "pipeline_id": "SYN-105",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.825548,
+     39.990053
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V02",
+    "pipeline_id": "SYN-105",
+    "station_ft": 16975,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-02",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.797176,
+     40.018794
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V03",
+    "pipeline_id": "SYN-105",
+    "station_ft": 30140,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-03",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.75407,
+     40.044882
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V04",
+    "pipeline_id": "SYN-105",
+    "station_ft": 45574,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-04",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.697415,
+     40.064793
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V05",
+    "pipeline_id": "SYN-105",
+    "station_ft": 62999,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-05",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.639306,
+     40.093581
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V06",
+    "pipeline_id": "SYN-105",
+    "station_ft": 82458,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-06",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.589763,
+     40.112019
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V07",
+    "pipeline_id": "SYN-105",
+    "station_ft": 97857,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-07",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.57801,
+     40.115654
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-V08",
+    "pipeline_id": "SYN-105",
+    "station_ft": 101400,
+    "feature_type": "valve",
+    "drawing_number": "SYN-105-VD-08",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.813927,
+     40.002499
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-X01",
+    "pipeline_id": "SYN-105",
+    "station_ft": 22577,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-105-XD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.823266,
+     39.992488
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-105-X02",
+    "pipeline_id": "SYN-105",
+    "station_ft": 18068,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-105-XD-02",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S01",
+    "pipeline_id": "SYN-106",
+    "station_ft": 0.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-001",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S02",
+    "pipeline_id": "SYN-106",
+    "station_ft": 6500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-001",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S02",
+    "pipeline_id": "SYN-106",
+    "station_ft": 6500.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-002",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S03",
+    "pipeline_id": "SYN-106",
+    "station_ft": 17000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-002",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S03",
+    "pipeline_id": "SYN-106",
+    "station_ft": 17000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-003",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S03",
+    "pipeline_id": "SYN-106",
+    "station_ft": 17000.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-004",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S04",
+    "pipeline_id": "SYN-106",
+    "station_ft": 31800.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-004",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S05",
+    "pipeline_id": "SYN-106",
+    "station_ft": 34600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-004",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S05",
+    "pipeline_id": "SYN-106",
+    "station_ft": 34600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-005",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S06",
+    "pipeline_id": "SYN-106",
+    "station_ft": 47900.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-005",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S06",
+    "pipeline_id": "SYN-106",
+    "station_ft": 47900.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-006",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S07",
+    "pipeline_id": "SYN-106",
+    "station_ft": 50600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-006",
+    "drawing_rev": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S07",
+    "pipeline_id": "SYN-106",
+    "station_ft": 50600.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-007",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "feature_id": "SYN-106-S08",
+    "pipeline_id": "SYN-106",
+    "station_ft": 66400.0,
+    "feature_type": "pipe_segment",
+    "drawing_number": "SYN-106-AL-007",
+    "drawing_rev": "0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.95,
+     39.85
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-V01",
+    "pipeline_id": "SYN-106",
+    "station_ft": 0,
+    "feature_type": "valve",
+    "drawing_number": "SYN-106-VD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.945695,
+     39.801747
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-V02",
+    "pipeline_id": "SYN-106",
+    "station_ft": 17683,
+    "feature_type": "valve",
+    "drawing_number": "SYN-106-VD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.907886,
+     39.701148
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-V03",
+    "pipeline_id": "SYN-106",
+    "station_ft": 56194,
+    "feature_type": "valve",
+    "drawing_number": "SYN-106-VD-03",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.911088,
+     39.670618
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-V04",
+    "pipeline_id": "SYN-106",
+    "station_ft": 67600,
+    "feature_type": "valve",
+    "drawing_number": "SYN-106-VD-04",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.927162,
+     39.743856
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-X01",
+    "pipeline_id": "SYN-106",
+    "station_ft": 39586,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-106-XD-01",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.910776,
+     39.67122
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-X02",
+    "pipeline_id": "SYN-106",
+    "station_ft": 67364,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-106-XD-02",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.94638,
+     39.807602
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-X03",
+    "pipeline_id": "SYN-106",
+    "station_ft": 15541,
+    "feature_type": "water_crossing",
+    "drawing_number": "SYN-106-XD-03",
+    "drawing_rev": "1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.905237,
+     39.689423
+    ]
+   },
+   "properties": {
+    "feature_id": "SYN-106-X04",
+    "pipeline_id": "SYN-106",
+    "station_ft": 60544,
+    "feature_type": "foreign_line_crossing",
+    "drawing_number": "SYN-106-XD-04",
+    "drawing_rev": "0"
+   }
+  }
+ ]
+}

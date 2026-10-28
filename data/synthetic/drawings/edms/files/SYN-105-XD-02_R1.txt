@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Foreign Line Crossing at STA 180+68
+DRAWING NO: SYN-105-XD-02
+REV: 1
+DATE: 2019-06-03
+STATUS: IFC
+PIPELINE: SYN-105
+STATIONS: 18068-18068
+-- DATA --
+crossing: tag=SYN-105-X02; station_ft=18068; crossing_type=foreign_line_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2017-09-05 | Issued for review
+0 | 2018-08-07 | Issued for construction
+1 | 2019-06-03 | Revised per FCR-0394

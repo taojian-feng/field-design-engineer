@@ -1,0 +1,16 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Front Range Supply Line alignment sheet STA 500+00 to 600+00
+DRAWING NO: SYN-105-AL-006
+REV: 1
+DATE: 2019-07-06
+STATUS: Superseded
+PIPELINE: SYN-105
+STATIONS: 50000-60000
+-- DATA --
+SYN-105-S08: begin_station_ft=47000.0; end_station_ft=51400.0; nps=12; wall_in=0.281; grade=X42; seam_type=unknown; coating=Asphalt
+SYN-105-S09: begin_station_ft=51400.0; end_station_ft=57200.0; nps=12; wall_in=0.219; grade=B; seam_type=lap_welded; coating=Bare
+SYN-105-S10: begin_station_ft=57200.0; end_station_ft=68700.0; nps=12; wall_in=0.5; grade=X52; seam_type=erw; coating=Coal tar enamel
+-- REVISION BLOCK --
+A | 2017-07-27 | Issued for review
+0 | 2018-07-17 | Issued for construction
+1 | 2019-07-06 | Revised per FCR-0759

@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: SYN-106-V04 mainline block valve installation detail
+DRAWING NO: SYN-106-VD-04
+REV: 0
+DATE: 2016-04-25
+STATUS: Superseded
+PIPELINE: SYN-106
+STATIONS: 67600-67600
+REFERENCES: PVC-2441-GA-03 REV B
+-- DATA --
+valve: tag=SYN-106-V04; station_ft=67600; nps=8; ansi_class=900; rating_psig=2220; part_number=PVC-FB89-16757; end_connection=RF
+-- REVISION BLOCK --
+A | 2016-02-09 | Issued for review
+0 | 2016-04-25 | Issued for construction

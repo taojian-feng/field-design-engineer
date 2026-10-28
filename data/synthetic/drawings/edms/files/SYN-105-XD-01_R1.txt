@@ -1,0 +1,14 @@
+SYNTHETIC GAS TRANSMISSION CO.
+TITLE: Water Crossing at STA 225+77
+DRAWING NO: SYN-105-XD-01
+REV: 1
+DATE: 2016-07-27
+STATUS: IFC
+PIPELINE: SYN-105
+STATIONS: 22577-22577
+-- DATA --
+crossing: tag=SYN-105-X01; station_ft=22577; crossing_type=water_crossing; method=bored, cased
+-- REVISION BLOCK --
+A | 2014-05-10 | Issued for review
+0 | 2015-05-19 | Issued for construction
+1 | 2016-07-27 | Revised per FCR-0494

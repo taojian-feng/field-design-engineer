@@ -1,0 +1,14 @@
+PECOS VALVE CO.
+TITLE: Pecos Valve Co. ball valve general arrangement
+DRAWING NO: PVC-9309-GA-08
+REV: B
+DATE: 2015-07-04
+STATUS: Approved as Noted
+VENDOR: Pecos Valve Co.
+PO: 4500301
+TAG: SYN-103-V04
+-- DATA --
+valve: part_number=PVC-FB129-88231; model=FB-900; nps=12; ansi_class=900; rating_psig=2220; end_connection=RF; body=ASTM A216 WCB
+-- REVISION BLOCK --
+A | 2014-10-28 | Submitted for review
+B | 2015-07-04 | Submitted for review
