@@ -1,0 +1,383 @@
+{
+  "seed": 7,
+  "counts": {
+    "pipeline": 6,
+    "pipe_segment": 40,
+    "point_feature": 98,
+    "class_location_range": 29,
+    "pressure_test": 33,
+    "structure": 1303
+  },
+  "seeded_issues": {
+    "missing_pressure_test": [
+      {
+        "pipeline_id": "SYN-101",
+        "segment_id": "SYN-101-S01",
+        "install_year": 1984
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "segment_id": "SYN-104-S01",
+        "install_year": 1968
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "segment_id": "SYN-104-S02",
+        "install_year": 1968
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S01",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S05",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S07",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S08",
+        "install_year": 1954
+      }
+    ],
+    "non_tvc_records": [
+      {
+        "pipeline_id": "SYN-101",
+        "segment_id": "SYN-101-S02",
+        "install_year": 1984
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "segment_id": "SYN-101-S06",
+        "install_year": 1984
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "segment_id": "SYN-101-S07",
+        "install_year": 1980
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "segment_id": "SYN-104-S02",
+        "install_year": 1968
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S01",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S02",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S03",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S04",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S05",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S08",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S09",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S10",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S12",
+        "install_year": 1954
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S15",
+        "install_year": 1965
+      },
+      {
+        "pipeline_id": "SYN-106",
+        "segment_id": "SYN-106-S04",
+        "install_year": 1980
+      },
+      {
+        "pipeline_id": "SYN-106",
+        "segment_id": "SYN-106-S05",
+        "install_year": 1980
+      }
+    ],
+    "underrated_valve": [
+      {
+        "pipeline_id": "SYN-101",
+        "feature_id": "SYN-101-V02",
+        "station_ft": 25344,
+        "rating_psig": 740,
+        "line_maop_psig": 746.7
+      },
+      {
+        "pipeline_id": "SYN-103",
+        "feature_id": "SYN-103-V02",
+        "station_ft": 12794,
+        "rating_psig": 1480,
+        "line_maop_psig": 1603.3
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "feature_id": "SYN-105-V02",
+        "station_ft": 16975,
+        "rating_psig": 285,
+        "line_maop_psig": 480.0
+      }
+    ],
+    "class_location_increase": [
+      {
+        "pipeline_id": "SYN-101",
+        "begin_station_ft": 23800.0,
+        "end_station_ft": 38080.0,
+        "recorded": 1,
+        "current": 2
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "begin_station_ft": 7680.0,
+        "end_station_ft": 9080.0,
+        "recorded": 2,
+        "current": 3
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "begin_station_ft": 9080.0,
+        "end_station_ft": 10280.0,
+        "recorded": 1,
+        "current": 3
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "begin_station_ft": 10280.0,
+        "end_station_ft": 10600.0,
+        "recorded": 1,
+        "current": 2
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "begin_station_ft": 10600.0,
+        "end_station_ft": 24000.0,
+        "recorded": 1,
+        "current": 3
+      }
+    ],
+    "valve_spacing_exceeded": [
+      {
+        "pipeline_id": "SYN-101",
+        "from_station_ft": 0,
+        "to_station_ft": 25344,
+        "limit_mi": 4
+      },
+      {
+        "pipeline_id": "SYN-102",
+        "from_station_ft": 0,
+        "to_station_ft": 24100,
+        "limit_mi": 4
+      }
+    ],
+    "low_cp": [
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 2640,
+        "mv": -772
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 13200,
+        "mv": -793
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 34320,
+        "mv": -751
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "station_ft": 71280,
+        "mv": -840
+      },
+      {
+        "pipeline_id": "SYN-106",
+        "station_ft": 44880,
+        "mv": -764
+      }
+    ],
+    "shallow_cover": [
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 30500,
+        "measured_in": 14,
+        "required_in": 30
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 34000,
+        "measured_in": 26,
+        "required_in": 30
+      },
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 38000,
+        "measured_in": 20,
+        "required_in": 30
+      },
+      {
+        "pipeline_id": "SYN-102",
+        "station_ft": 13000,
+        "measured_in": 20,
+        "required_in": 36
+      },
+      {
+        "pipeline_id": "SYN-103",
+        "station_ft": 24500,
+        "measured_in": 32,
+        "required_in": 36
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "station_ft": 8500,
+        "measured_in": 27,
+        "required_in": 36
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "station_ft": 21500,
+        "measured_in": 18,
+        "required_in": 24
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "station_ft": 45000,
+        "measured_in": 31,
+        "required_in": 36
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "station_ft": 70500,
+        "measured_in": 17,
+        "required_in": 30
+      },
+      {
+        "pipeline_id": "SYN-106",
+        "station_ft": 58500,
+        "measured_in": 20,
+        "required_in": 30
+      }
+    ],
+    "exposed_pipe": [
+      {
+        "pipeline_id": "SYN-101",
+        "station_ft": 40952
+      },
+      {
+        "pipeline_id": "SYN-103",
+        "station_ft": 22933
+      },
+      {
+        "pipeline_id": "SYN-105",
+        "station_ft": 97145
+      }
+    ],
+    "encroachment": [
+      {
+        "pipeline_id": "SYN-102",
+        "station_ft": 20031
+      },
+      {
+        "pipeline_id": "SYN-104",
+        "station_ft": 7882
+      },
+      {
+        "pipeline_id": "SYN-106",
+        "station_ft": 9085
+      }
+    ],
+    "bom_discrepancy": [
+      {
+        "project": "PRJ-202601",
+        "pipeline_id": "SYN-105",
+        "segment_id": "SYN-105-S15",
+        "issues": [
+          {
+            "item_id": "P-01",
+            "type": "quantity_variance"
+          },
+          {
+            "item_id": "F-02",
+            "type": "substitution"
+          },
+          {
+            "item_id": "F-02",
+            "type": "traceability"
+          },
+          {
+            "item_id": "V-01",
+            "type": "substitution"
+          },
+          {
+            "item_id": "A-01",
+            "type": "not_installed"
+          },
+          {
+            "item_id": "C-02",
+            "type": "unplanned_item"
+          }
+        ]
+      },
+      {
+        "project": "PRJ-202602",
+        "pipeline_id": "SYN-102",
+        "segment_id": "SYN-102-S02",
+        "issues": [
+          {
+            "item_id": "P-01",
+            "type": "quantity_variance"
+          },
+          {
+            "item_id": "F-02",
+            "type": "substitution"
+          },
+          {
+            "item_id": "F-02",
+            "type": "traceability"
+          },
+          {
+            "item_id": "A-01",
+            "type": "not_installed"
+          },
+          {
+            "item_id": "C-02",
+            "type": "unplanned_item"
+          }
+        ]
+      }
+    ]
+  }
+}

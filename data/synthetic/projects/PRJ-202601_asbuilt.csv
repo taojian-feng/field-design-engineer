@@ -1,0 +1,7 @@
+item_id,description,spec,quantity,unit,heat_number,mtr_on_file
+P-01,12in line pipe,API 5L X60 0.188w ERW FBE,3830,ft,H-46151,yes
+F-01,12in 90 deg elbow 3R,MSS SP-75 WPHY-60 0.188w,5,ea,H-63305,yes
+F-02,12in 45 deg elbow,MSS SP-75 WPHY-42 0.188w,1,ea,,no
+V-01,12in ball valve,ANSI 300 RF API 6D,1,ea,H-82759,yes
+C-01,Field joint coating,Two-part epoxy,88,ea,H-76548,yes
+C-02,Rock shield,Polyethylene mesh,87,ft,,

@@ -1,0 +1,7 @@
+pipeline_id,name,operator,product,begin_station_ft,end_station_ft
+SYN-101,Coastal Prairie Lateral,Synthetic Gas Transmission Co.,Natural gas,0,51900
+SYN-102,Red River Header,Synthetic Gas Transmission Co.,Natural gas,0,24100
+SYN-103,Allegheny Gathering Trunk,Synthetic Gas Transmission Co.,Natural gas,0,32000
+SYN-104,Bayou Crossing Line,Synthetic Gas Transmission Co.,Natural gas,0,24000
+SYN-105,Front Range Supply Line,Synthetic Gas Transmission Co.,Natural gas,0,101400
+SYN-106,Ohio Valley Loop,Synthetic Gas Transmission Co.,Natural gas,0,67600

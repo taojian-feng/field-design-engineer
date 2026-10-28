@@ -1,0 +1,6 @@
+item_id,description,spec,quantity,unit,heat_number,mtr_on_file
+P-01,12in line pipe,API 5L X52 0.375w ERW FBE,1310,ft,H-90211,yes
+F-01,12in 90 deg elbow 3R,MSS SP-75 WPHY-52 0.375w,4,ea,H-90377,yes
+F-02,12in 45 deg elbow,MSS SP-75 WPHY-42 0.375w,2,ea,,no
+V-01,12in ball valve,ANSI 300 RF API 6D,1,ea,V-5521,yes
+C-02,Rock shield,Polyethylene mesh,200,ft,,
